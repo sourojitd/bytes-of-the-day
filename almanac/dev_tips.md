@@ -18,3 +18,12 @@ https://developer.mozilla.org/en-US/docs/Glossary/Idempotent
 
 ---
 
+## 2017-11-13 (Monday)
+
+### Dev Tips
+**Semantic Versioning (SemVer)** — Adopt Semantic Versioning for your projects. Given a version number MAJOR.MINOR.PATCH, increment the: MAJOR version for incompatible API changes, MINOR version for backward-compatible functionality, and PATCH version for backward-compatible bug fixes.
+
+https://semver.org/
+
+---
+
