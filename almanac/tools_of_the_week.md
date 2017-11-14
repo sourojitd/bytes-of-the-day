@@ -18,3 +18,12 @@ https://www.postman.com/
 
 ---
 
+## 2017-11-14 (Tuesday)
+
+### Tool of the Week
+**Jenkins** — An open-source automation server that helps automate the parts of software development related to building, testing, and deploying. A dominant tool in the CI/CD space for this era.
+
+https://www.jenkins.io/
+
+---
+
