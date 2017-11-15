@@ -28,3 +28,16 @@ List comprehensions offer a shorter syntax when you want to create a new list ba
 
 ---
 
+## 2017-11-15 (Wednesday)
+
+### Code Snippet
+**Snippet (JavaScript): ES6 Arrow Functions**
+
+```javascript
+const add = (a, b) => a + b;
+// A more concise syntax for writing function expressions.
+// Arrow functions also lexically bind the `this` value.
+```
+
+---
+
