@@ -18,3 +18,12 @@ https://martinfowler.com/articles/microservices.html
 
 ---
 
+## 2017-11-16 (Thursday)
+
+### Architecture Byte
+**CQRS (Command Query Responsibility Segregation)** — CQRS is a pattern that separates read and write operations for a data store. Commands update data, while Queries read data. This can help optimize performance, scalability, and security.
+
+https://martinfowler.com/bliki/CQRS.html
+
+---
+
