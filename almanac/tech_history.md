@@ -18,3 +18,12 @@ https://en.wikipedia.org/wiki/WorldWideWeb
 
 ---
 
+## 2017-11-17 (Friday)
+
+### Tech History
+**The Agile Manifesto** — In 2001, seventeen software developers met to discuss lightweight development methods. They published the Manifesto for Agile Software Development, which has since become a cornerstone of modern software engineering practices.
+
+https://agilemanifesto.org/
+
+---
+
