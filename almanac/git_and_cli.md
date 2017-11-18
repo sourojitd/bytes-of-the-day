@@ -18,3 +18,12 @@ https://www.gnu.org/software/grep/manual/grep.html
 
 ---
 
+## 2017-11-18 (Saturday)
+
+### Git & CLI
+**Git: Amending Commits** — Made a mistake in your last commit message, or forgot a file? Use `git commit --amend` to modify the most recent commit. Be careful not to amend commits that have already been pushed to a public branch.
+
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
+
+---
+
