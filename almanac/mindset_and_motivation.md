@@ -16,3 +16,12 @@ https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 
 ---
 
+## 2017-11-19 (Sunday)
+
+### Mindset
+**Mindset: The Boy Scout Rule** — Leave the codebase healthier than you found it. Every time you touch a piece of code, take a moment to clean it up, refactor a small part, or improve its readability. This leads to gradual, sustained improvement.
+
+https://deviq.com/boy-scout-rule
+
+---
+
