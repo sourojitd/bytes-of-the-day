@@ -27,3 +27,12 @@ https://semver.org/
 
 ---
 
+## 2017-11-20 (Monday)
+
+### Dev Tips
+**Use Environment Variables for Configuration** — Never hardcode configuration like database credentials or API keys in your code. Use environment variables to manage configuration for different environments (development, staging, production).
+
+https://12factor.net/config
+
+---
+
