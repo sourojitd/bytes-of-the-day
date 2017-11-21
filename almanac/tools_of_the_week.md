@@ -27,3 +27,12 @@ https://www.jenkins.io/
 
 ---
 
+## 2017-11-21 (Tuesday)
+
+### Tool of the Week
+**Docker** — A platform for developing, shipping, and running applications in containers. Docker was rapidly gaining popularity in 2017 for its ability to create lightweight, portable, and self-sufficient application environments.
+
+https://www.docker.com/
+
+---
+
