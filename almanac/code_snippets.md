@@ -41,3 +41,22 @@ const add = (a, b) => a + b;
 
 ---
 
+## 2017-11-22 (Wednesday)
+
+### Code Snippet
+**Snippet (SQL): Common Table Expressions (CTEs)**
+
+```sql
+WITH RegionalSales AS (
+  SELECT region, SUM(amount) AS total_sales
+  FROM orders
+  GROUP BY region
+)
+SELECT region, total_sales
+FROM RegionalSales
+WHERE total_sales > 1000;
+```
+CTEs help break down complex queries into simple, readable steps.
+
+---
+
