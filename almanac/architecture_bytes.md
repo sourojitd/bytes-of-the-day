@@ -27,3 +27,12 @@ https://martinfowler.com/bliki/CQRS.html
 
 ---
 
+## 2017-11-23 (Thursday)
+
+### Architecture Byte
+**The Strangler Fig Pattern** — Incrementally replace a legacy system by gradually creating a new system around the edges of the old one. Over time, the new system 'strangles' the old one until it can be safely decommissioned.
+
+https://martinfowler.com/bliki/StranglerFigApplication.html
+
+---
+
