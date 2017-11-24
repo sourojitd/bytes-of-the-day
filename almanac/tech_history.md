@@ -27,3 +27,12 @@ https://agilemanifesto.org/
 
 ---
 
+## 2017-11-24 (Friday)
+
+### Tech History
+**The First 'Bug'** — On September 9, 1947, operators at Harvard University found a moth trapped in a relay of the Mark II computer, causing an error. They taped the moth to the log book and labeled it 'First actual case of bug being found.'
+
+https://education.nationalgeographic.org/resource/worlds-first-computer-bug/
+
+---
+
