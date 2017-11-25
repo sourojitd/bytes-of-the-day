@@ -27,3 +27,12 @@ https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
 
 ---
 
+## 2017-11-25 (Saturday)
+
+### Git & CLI
+**`awk` for Text Processing** — Use `awk` to process and analyze text files. For example, `awk '{print $1}' filename.txt` will print the first column of a space-separated file. It's a powerful tool for data extraction and reporting.
+
+https://www.gnu.org/software/gawk/manual/gawk.html
+
+---
+
