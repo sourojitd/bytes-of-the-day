@@ -25,3 +25,12 @@ https://deviq.com/boy-scout-rule
 
 ---
 
+## 2017-11-26 (Sunday)
+
+### Mindset
+**Mindset: Keep It Simple, Stupid (KISS)** — The KISS principle states that most systems work best if they are kept simple rather than made complicated. Simplicity should be a key goal in design, and unnecessary complexity should be avoided.
+
+https://en.wikipedia.org/wiki/KISS_principle
+
+---
+
