@@ -36,3 +36,12 @@ https://12factor.net/config
 
 ---
 
+## 2017-11-27 (Monday)
+
+### Dev Tips
+**Lint Your Code** — Integrate a linter into your development workflow. Linters automatically analyze code for potential errors, stylistic issues, and bad practices, helping to maintain code quality and consistency across your team.
+
+https://eslint.org/
+
+---
+
