@@ -36,3 +36,12 @@ https://www.docker.com/
 
 ---
 
+## 2017-11-28 (Tuesday)
+
+### Tool of the Week
+**Vagrant** — A tool for building and managing virtual machine environments in a single workflow. Before Docker became dominant, Vagrant was a very popular choice for creating reproducible development environments.
+
+https://www.vagrantup.com/
+
+---
+
