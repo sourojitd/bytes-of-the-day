@@ -60,3 +60,16 @@ CTEs help break down complex queries into simple, readable steps.
 
 ---
 
+## 2017-11-29 (Wednesday)
+
+### Code Snippet
+**Using the Stream API**
+
+```java
+List<String> strings = Arrays.asList("a", "b", "c", "");
+long count = strings.stream().filter(String::isEmpty).count();
+// The Stream API provides a functional approach to processing collections of objects.
+```
+
+---
+
