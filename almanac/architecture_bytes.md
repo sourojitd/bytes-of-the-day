@@ -36,3 +36,12 @@ https://martinfowler.com/bliki/StranglerFigApplication.html
 
 ---
 
+## 2017-11-30 (Thursday)
+
+### Architecture Byte
+**The Bulkhead Pattern** — Isolate elements of an application into pools so that if one fails, the others will continue to function. It's like the sectioned partitions of a ship's hull; if one compartment floods, the ship doesn't sink.
+
+https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
+
+---
+
