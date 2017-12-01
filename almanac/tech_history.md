@@ -36,3 +36,12 @@ https://education.nationalgeographic.org/resource/worlds-first-computer-bug/
 
 ---
 
+## 2017-12-01 (Friday)
+
+### Tech History
+**The Release of Java 1.0** — Sun Microsystems released the first public version of Java in 1996. Its 'write once, run anywhere' philosophy was revolutionary at the time and contributed to its widespread adoption.
+
+https://en.wikipedia.org/wiki/Java_version_history
+
+---
+
