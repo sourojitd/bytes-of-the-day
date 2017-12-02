@@ -36,3 +36,12 @@ https://www.gnu.org/software/gawk/manual/gawk.html
 
 ---
 
+## 2017-12-02 (Saturday)
+
+### Git & CLI
+**Git: `git stash` to Save Changes** — Need to quickly switch branches but aren't ready to commit your current work? Use `git stash` to temporarily shelve your changes. You can reapply them later with `git stash pop`.
+
+https://git-scm.com/docs/git-stash
+
+---
+
