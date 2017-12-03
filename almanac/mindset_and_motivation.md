@@ -34,3 +34,12 @@ https://en.wikipedia.org/wiki/KISS_principle
 
 ---
 
+## 2017-12-03 (Sunday)
+
+### Mindset
+**Mindset: Don't Repeat Yourself (DRY)** — The DRY principle is aimed at reducing repetition of software patterns. 'Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.'
+
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+
+---
+
