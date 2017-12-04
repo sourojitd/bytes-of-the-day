@@ -45,3 +45,12 @@ https://eslint.org/
 
 ---
 
+## 2017-12-04 (Monday)
+
+### Dev Tips
+**Write Meaningful Commit Messages** — A good commit message explains the 'what' and the 'why' of a change, not just the 'how'. Follow conventions like the 50/72 rule (50-char subject, 72-char body lines) for clarity.
+
+https://chris.beams.io/posts/git-commit/
+
+---
+
