@@ -45,3 +45,12 @@ https://www.vagrantup.com/
 
 ---
 
+## 2017-12-05 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.8** — Released in Sep 2017, Kubernetes 1.8 stabilized role-based access control (RBAC) and introduced workload improvements. Kubernetes was solidifying its position as the leading container orchestrator.
+
+https://kubernetes.io/blog/2017/09/kubernetes-1-8-release/
+
+---
+
