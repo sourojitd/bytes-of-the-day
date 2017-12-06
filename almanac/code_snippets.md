@@ -73,3 +73,20 @@ long count = strings.stream().filter(String::isEmpty).count();
 
 ---
 
+## 2017-12-06 (Wednesday)
+
+### Code Snippet
+**Dictionaries**
+
+```python
+# Creating and accessing a dictionary
+person = {'name': 'Alice', 'age': 30}
+print(person['name'])  # Outputs: Alice
+
+# Safely get a value with .get()
+print(person.get('city', 'Unknown')) # Outputs: Unknown
+```
+Dictionaries are a fundamental data structure for key-value storage.
+
+---
+
