@@ -45,3 +45,12 @@ https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
 
 ---
 
+## 2017-12-07 (Thursday)
+
+### Architecture Byte
+**Event Sourcing** — Instead of storing just the current state of the data in a domain, use an append-only store to record the full series of actions taken on that data. This provides a reliable audit log and makes it possible to reconstruct past states.
+
+https://martinfowler.com/eaaDev/EventSourcing.html
+
+---
+
