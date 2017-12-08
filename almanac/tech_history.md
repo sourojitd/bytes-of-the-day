@@ -45,3 +45,12 @@ https://en.wikipedia.org/wiki/Java_version_history
 
 ---
 
+## 2017-12-08 (Friday)
+
+### Tech History
+**The Release of Python** — Python was first released by Guido van Rossum in 1991. Its design philosophy emphasizes code readability with its notable use of significant indentation. It has since become one of the world's most popular programming languages.
+
+https://en.wikipedia.org/wiki/History_of_Python
+
+---
+
