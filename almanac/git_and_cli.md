@@ -45,3 +45,12 @@ https://git-scm.com/docs/git-stash
 
 ---
 
+## 2017-12-09 (Saturday)
+
+### Git & CLI
+**Git: Interactive Rebase** — Use `git rebase -i HEAD~3` to interactively edit the last 3 commits. You can reorder, squash, reword, or drop commits. It's a powerful tool for cleaning up your local commit history before sharing it.
+
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_squashing
+
+---
+
