@@ -43,3 +43,12 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 ---
 
+## 2017-12-10 (Sunday)
+
+### Mindset
+**Mindset: The Mythical Man-Month** — Adding more people to a late software project makes it later. This central theme from Fred Brooks' book highlights that communication overhead increases as you add more people, slowing down the project.
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+
+---
+
