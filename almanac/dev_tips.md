@@ -54,3 +54,12 @@ https://chris.beams.io/posts/git-commit/
 
 ---
 
+## 2017-12-11 (Monday)
+
+### Dev Tips
+**SOLID Principles - Single Responsibility** — The Single Responsibility Principle (SRP) states that a class should have only one reason to change. This makes your code more modular, easier to understand, and less brittle.
+
+https://en.wikipedia.org/wiki/Single-responsibility_principle
+
+---
+
