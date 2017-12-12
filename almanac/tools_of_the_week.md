@@ -54,3 +54,12 @@ https://kubernetes.io/blog/2017/09/kubernetes-1-8-release/
 
 ---
 
+## 2017-12-12 (Tuesday)
+
+### Tool of the Week
+**Prometheus** — An open-source systems monitoring and alerting toolkit originally built at SoundCloud. By 2017, it was a CNCF project and becoming the de facto standard for monitoring in cloud-native environments.
+
+https://prometheus.io/
+
+---
+
