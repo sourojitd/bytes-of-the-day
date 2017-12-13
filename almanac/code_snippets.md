@@ -90,3 +90,18 @@ Dictionaries are a fundamental data structure for key-value storage.
 
 ---
 
+## 2017-12-13 (Wednesday)
+
+### Code Snippet
+**Snippet (JavaScript): `let` and `const`**
+
+```javascript
+let count = 0; // block-scoped, can be reassigned
+const PI = 3.14; // block-scoped, cannot be reassigned
+
+// Prefer const by default, and use let only when you need to reassign a variable.
+```
+ES6 introduced `let` and `const` for block-scoped variables, largely replacing `var`.
+
+---
+
