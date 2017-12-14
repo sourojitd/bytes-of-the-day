@@ -54,3 +54,12 @@ https://martinfowler.com/eaaDev/EventSourcing.html
 
 ---
 
+## 2017-12-14 (Thursday)
+
+### Architecture Byte
+**API Gateway** — An API gateway is a single entry point for all clients. It handles requests by routing them to the appropriate microservice, and can also handle concerns like authentication, rate limiting, and logging.
+
+https://microservices.io/patterns/apigateway.html
+
+---
+
