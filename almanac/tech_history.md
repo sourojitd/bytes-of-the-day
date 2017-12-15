@@ -54,3 +54,12 @@ https://en.wikipedia.org/wiki/History_of_Python
 
 ---
 
+## 2017-12-15 (Friday)
+
+### Tech History
+**The First Domain Name** — The first commercial .com domain name was Symbolics.com, registered on March 15, 1985. This marked the beginning of the commercialization of the internet.
+
+https://en.wikipedia.org/wiki/Symbolics
+
+---
+
