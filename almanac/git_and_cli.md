@@ -54,3 +54,12 @@ https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_squashing
 
 ---
 
+## 2017-12-16 (Saturday)
+
+### Git & CLI
+**Using `xargs`** — The `xargs` command builds and executes command lines from standard input. It's useful for piping the output of one command into another, e.g., `find . -name '*.tmp' | xargs rm` to delete all .tmp files.
+
+https://man7.org/linux/man-pages/man1/xargs.1.html
+
+---
+
