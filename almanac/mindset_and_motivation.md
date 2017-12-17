@@ -52,3 +52,12 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 ---
 
+## 2017-12-17 (Sunday)
+
+### Mindset
+**Mindset: Rubber Duck Debugging** — Explain your code, line-by-line, to a rubber duck (or any inanimate object). The act of verbalizing your thought process often helps you find the flaw in your logic on your own.
+
+https://rubberduckdebugging.com/
+
+---
+
