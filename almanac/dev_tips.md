@@ -63,3 +63,12 @@ https://en.wikipedia.org/wiki/Single-responsibility_principle
 
 ---
 
+## 2017-12-18 (Monday)
+
+### Dev Tips
+**SOLID - Open/Closed Principle** — Software entities (classes, modules, functions) should be open for extension, but closed for modification. This means you should be able to add new functionality without changing existing code.
+
+https://en.wikipedia.org/wiki/Open–closed_principle
+
+---
+
