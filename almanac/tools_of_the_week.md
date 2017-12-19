@@ -63,3 +63,12 @@ https://prometheus.io/
 
 ---
 
+## 2017-12-19 (Tuesday)
+
+### Tool of the Week
+**Ansible** — An open-source automation tool for configuration management, application deployment, and task automation. Its agentless architecture and use of YAML made it very popular for infrastructure as code.
+
+https://www.ansible.com/
+
+---
+
