@@ -105,3 +105,20 @@ ES6 introduced `let` and `const` for block-scoped variables, largely replacing `
 
 ---
 
+## 2017-12-20 (Wednesday)
+
+### Code Snippet
+**The `requests` Library**
+
+```python
+import requests
+
+response = requests.get('[https://api.github.com](https://api.github.com)')
+if response.status_code == 200:
+    print('Success!')
+    print(response.json())
+```
+The `requests` library is the de facto standard for making HTTP requests in Python.
+
+---
+
