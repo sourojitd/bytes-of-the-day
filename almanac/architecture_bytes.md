@@ -63,3 +63,12 @@ https://microservices.io/patterns/apigateway.html
 
 ---
 
+## 2017-12-21 (Thursday)
+
+### Architecture Byte
+**Service Discovery** — In a microservices architecture, how do services find each other? Service Discovery patterns (e.g., using tools like Consul or Eureka) provide a way for services to dynamically register and find other services on the network.
+
+https://microservices.io/patterns/service-registry.html
+
+---
+
