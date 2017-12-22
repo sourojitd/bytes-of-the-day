@@ -63,3 +63,12 @@ https://en.wikipedia.org/wiki/Symbolics
 
 ---
 
+## 2017-12-22 (Friday)
+
+### Tech History
+**The 'AlexNet' Moment** — In 2012, the AlexNet deep neural network achieved a significant breakthrough in the ImageNet competition. This event is widely seen as the catalyst for the deep learning revolution of the 2010s.
+
+https://en.wikipedia.org/wiki/AlexNet
+
+---
+
