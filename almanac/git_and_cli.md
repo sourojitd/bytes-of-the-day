@@ -63,3 +63,12 @@ https://man7.org/linux/man-pages/man1/xargs.1.html
 
 ---
 
+## 2017-12-23 (Saturday)
+
+### Git & CLI
+**Git: Finding a Commit by Message** — Use `git log --grep='Your search string'` to search for commits that contain a specific string in their commit message. This is incredibly useful for finding when a particular change was made.
+
+https://git-scm.com/docs/git-log
+
+---
+
