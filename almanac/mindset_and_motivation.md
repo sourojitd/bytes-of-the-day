@@ -61,3 +61,12 @@ https://rubberduckdebugging.com/
 
 ---
 
+## 2017-12-24 (Sunday)
+
+### Mindset
+**Mindset: Premature Optimization** — Donald Knuth famously said, 'Premature optimization is the root of all evil.' Don't spend time optimizing code before you know where the performance bottlenecks are. Write clean, working code first, then optimize based on measurement.
+
+https://wiki.c2.com/?PrematureOptimization
+
+---
+
