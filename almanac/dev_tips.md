@@ -72,3 +72,12 @@ https://en.wikipedia.org/wiki/Open–closed_principle
 
 ---
 
+## 2017-12-25 (Monday)
+
+### Dev Tips
+**SOLID - Liskov Substitution Principle** — Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program. In short, a subclass should extend its parent class without changing its behavior.
+
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
+
+---
+
