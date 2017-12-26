@@ -72,3 +72,12 @@ https://www.ansible.com/
 
 ---
 
+## 2017-12-26 (Tuesday)
+
+### Tool of the Week
+**Terraform** — An open-source infrastructure as code (IaC) tool by HashiCorp. It allows you to define and provision data center infrastructure using a declarative configuration language. A key tool in the DevOps movement.
+
+https://www.terraform.io/
+
+---
+
