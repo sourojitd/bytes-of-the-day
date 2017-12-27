@@ -122,3 +122,19 @@ The `requests` library is the de facto standard for making HTTP requests in Pyth
 
 ---
 
+## 2017-12-27 (Wednesday)
+
+### Code Snippet
+**Snippet (JavaScript): Destructuring Assignment**
+
+```javascript
+const person = { name: 'Bob', age: 42 };
+const { name, age } = person;
+
+console.log(name); // 'Bob'
+console.log(age); // 42
+```
+Destructuring makes it easy to extract properties from objects or items from arrays into distinct variables.
+
+---
+
