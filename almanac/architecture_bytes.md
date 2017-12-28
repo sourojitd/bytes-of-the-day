@@ -72,3 +72,12 @@ https://microservices.io/patterns/service-registry.html
 
 ---
 
+## 2017-12-28 (Thursday)
+
+### Architecture Byte
+**Caching Strategies** — Caching is crucial for performance. Common strategies include Cache-Aside (lazy loading), Read-Through/Write-Through (inline caching), and Write-Back (write behind). Each has different trade-offs in terms of performance and data consistency.
+
+https://aws.amazon.com/caching/caching-strategies/
+
+---
+
