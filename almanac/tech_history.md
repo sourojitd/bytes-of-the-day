@@ -72,3 +72,12 @@ https://en.wikipedia.org/wiki/AlexNet
 
 ---
 
+## 2017-12-29 (Friday)
+
+### Tech History
+**The Launch of AWS S3** — Amazon launched its Simple Storage Service (S3) in 2006. It was one of the first major cloud services and helped pioneer the concept of cloud infrastructure, fundamentally changing how applications are built and deployed.
+
+https://en.wikipedia.org/wiki/Amazon_S3
+
+---
+
