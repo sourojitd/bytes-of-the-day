@@ -72,3 +72,12 @@ https://git-scm.com/docs/git-log
 
 ---
 
+## 2017-12-30 (Saturday)
+
+### Git & CLI
+**Git: `git reflog` for Recovery** — Think you've lost a commit? `git reflog` shows a log of where your HEAD and branch references have been. It's a safety net that can help you recover commits that seem to be lost after a rebase or reset.
+
+https://git-scm.com/docs/git-reflog
+
+---
+
