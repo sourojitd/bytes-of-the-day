@@ -70,3 +70,12 @@ https://wiki.c2.com/?PrematureOptimization
 
 ---
 
+## 2017-12-31 (Sunday)
+
+### Mindset
+**Mindset: Technical Debt** — Technical debt is the implied cost of rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer. Like financial debt, it accrues 'interest,' making future changes harder.
+
+https://martinfowler.com/bliki/TechnicalDebt.html
+
+---
+
