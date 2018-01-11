@@ -7,3 +7,10 @@
 
 ---
 
+## 2018-01-11 (Thursday)
+
+### Architecture Byte
+**Bulkhead ** — Bulkhead — isolate critical resources to contain blast radius.
+
+---
+
