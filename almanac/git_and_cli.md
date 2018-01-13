@@ -7,3 +7,10 @@
 
 ---
 
+## 2018-01-13 (Saturday)
+
+### Git & CLI
+**git rebase -i** — Rewrite/squash recent commits to curate history.
+
+---
+
