@@ -14,3 +14,10 @@
 
 ---
 
+## 2018-01-15 (Monday)
+
+### Dev Tips
+**Paginate large queries and stream responses to avo** — Paginate large queries and stream responses to avoid memory spikes.
+
+---
+
