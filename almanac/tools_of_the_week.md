@@ -18,3 +18,12 @@ https://kubernetes.io/
 
 ---
 
+## 2018-01-16 (Tuesday)
+
+### Tool of the Week
+**curl** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
