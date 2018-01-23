@@ -27,3 +27,12 @@ https://curl.se/
 
 ---
 
+## 2018-01-23 (Tuesday)
+
+### Tool of the Week
+**Git 2.16** — Performance and feature improvements in Git.
+
+https://git-scm.com/
+
+---
+
