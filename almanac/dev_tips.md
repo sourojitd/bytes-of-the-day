@@ -28,3 +28,10 @@
 
 ---
 
+## 2018-01-29 (Monday)
+
+### Dev Tips
+**Measure before optimizing; add metrics around late** — Measure before optimizing; add metrics around latency and error rates.
+
+---
+
