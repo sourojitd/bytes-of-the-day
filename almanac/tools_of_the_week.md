@@ -36,3 +36,12 @@ https://git-scm.com/
 
 ---
 
+## 2018-01-30 (Tuesday)
+
+### Tool of the Week
+**jq** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
