@@ -28,3 +28,10 @@
 
 ---
 
+## 2018-02-01 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers ** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
