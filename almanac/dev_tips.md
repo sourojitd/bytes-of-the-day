@@ -35,3 +35,10 @@
 
 ---
 
+## 2018-02-05 (Monday)
+
+### Dev Tips
+**Define SLIs/SLOs; alert on user-impacting symptoms** — Define SLIs/SLOs; alert on user-impacting symptoms, not just infrastructure.
+
+---
+
