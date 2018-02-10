@@ -35,3 +35,10 @@
 
 ---
 
+## 2018-02-10 (Saturday)
+
+### Git & CLI
+**bat** — cat with syntax highlighting and line numbers.
+
+---
+
