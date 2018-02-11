@@ -35,3 +35,10 @@
 
 ---
 
+## 2018-02-11 (Sunday)
+
+### Mindset
+**Mindset: Automate boring work; protect your focus time** — Automate boring work; protect your focus time.
+
+---
+
