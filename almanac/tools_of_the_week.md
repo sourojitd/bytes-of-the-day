@@ -54,3 +54,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2018-02-13 (Tuesday)
+
+### Tool of the Week
+**VS Code 1.20** — Popular editor update; extensibility ecosystem.
+
+https://code.visualstudio.com/
+
+---
+
