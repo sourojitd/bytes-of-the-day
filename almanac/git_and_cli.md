@@ -42,3 +42,10 @@
 
 ---
 
+## 2018-02-17 (Saturday)
+
+### Git & CLI
+**tldr** — Community examples for common commands.
+
+---
+
