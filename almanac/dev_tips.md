@@ -49,3 +49,10 @@
 
 ---
 
+## 2018-02-19 (Monday)
+
+### Dev Tips
+**Guard critical paths with circuit breakers and bul** — Guard critical paths with circuit breakers and bulkheads.
+
+---
+
