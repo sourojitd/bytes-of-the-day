@@ -63,3 +63,12 @@ https://code.visualstudio.com/
 
 ---
 
+## 2018-02-20 (Tuesday)
+
+### Tool of the Week
+**fzf** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
