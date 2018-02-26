@@ -56,3 +56,10 @@
 
 ---
 
+## 2018-02-26 (Monday)
+
+### Dev Tips
+**Design DTOs immutable; avoid shared mutable state** — Design DTOs immutable; avoid shared mutable state.
+
+---
+
