@@ -56,3 +56,10 @@
 
 ---
 
+## 2018-03-01 (Thursday)
+
+### Architecture Byte
+**Saga ** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
