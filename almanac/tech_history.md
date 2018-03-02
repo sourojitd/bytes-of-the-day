@@ -56,3 +56,10 @@
 
 ---
 
+## 2018-03-02 (Friday)
+
+### Tech History
+**LLVM/Clang** — LLVM/Clang — toolchain modularity accelerates language ecosystems.
+
+---
+
