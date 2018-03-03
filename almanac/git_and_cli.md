@@ -56,3 +56,10 @@
 
 ---
 
+## 2018-03-03 (Saturday)
+
+### Git & CLI
+**jq** — . filters JSON streams; great for pipelines.
+
+---
+
