@@ -81,3 +81,12 @@ https://htop.dev/
 
 ---
 
+## 2018-03-06 (Tuesday)
+
+### Tool of the Week
+**Spring Boot 2.0** — Major Spring Boot release for prod services.
+
+https://spring.io/projects/spring-boot
+
+---
+
