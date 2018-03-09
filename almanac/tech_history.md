@@ -63,3 +63,10 @@
 
 ---
 
+## 2018-03-09 (Friday)
+
+### Tech History
+**SQLite** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
