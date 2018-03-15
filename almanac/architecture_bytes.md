@@ -70,3 +70,10 @@
 
 ---
 
+## 2018-03-15 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (074)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
