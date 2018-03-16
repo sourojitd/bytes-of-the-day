@@ -70,3 +70,10 @@
 
 ---
 
+## 2018-03-16 (Friday)
+
+### Tech History
+**UNIX philosophy (075)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
