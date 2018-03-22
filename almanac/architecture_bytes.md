@@ -77,3 +77,10 @@
 
 ---
 
+## 2018-03-22 (Thursday)
+
+### Architecture Byte
+**Bulkhead  (081)** — Bulkhead — isolate critical resources to contain blast radius.
+
+---
+
