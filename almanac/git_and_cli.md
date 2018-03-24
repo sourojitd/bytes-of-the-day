@@ -77,3 +77,10 @@
 
 ---
 
+## 2018-03-24 (Saturday)
+
+### Git & CLI
+**git rebase -i (083)** — Rewrite/squash recent commits to curate history.
+
+---
+
