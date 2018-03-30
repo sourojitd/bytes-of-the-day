@@ -84,3 +84,10 @@
 
 ---
 
+## 2018-03-30 (Friday)
+
+### Tech History
+**Git (2005) (089)** — Git (2005) — distributed VCS reshapes collaboration.
+
+---
+
