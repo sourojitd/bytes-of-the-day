@@ -84,3 +84,10 @@
 
 ---
 
+## 2018-04-01 (Sunday)
+
+### Mindset
+**Mindset: Refactor without fear; delete code to gain clarity (091)** — Refactor without fear; delete code to gain clarity.
+
+---
+
