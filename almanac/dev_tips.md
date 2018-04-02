@@ -91,3 +91,10 @@
 
 ---
 
+## 2018-04-02 (Monday)
+
+### Dev Tips
+**Rate-limit public endpoints; return 429 with retry** — Rate-limit public endpoints; return 429 with retry hints.
+
+---
+
