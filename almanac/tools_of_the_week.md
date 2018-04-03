@@ -117,3 +117,12 @@ https://curl.se/
 
 ---
 
+## 2018-04-03 (Tuesday)
+
+### Tool of the Week
+**React 16.3** — Lifecycle updates and new Context API.
+
+https://react.dev/
+
+---
+
