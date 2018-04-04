@@ -146,3 +146,14 @@ Map<String,User> m = users.stream()
 
 ---
 
+## 2018-04-04 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Optional chaining [094]**
+
+```javascript
+const city = user?.address?.city;
+```
+
+---
+
