@@ -91,3 +91,10 @@
 
 ---
 
+## 2018-04-06 (Friday)
+
+### Tech History
+**Docker (2013) (096)** — Docker (2013) — containers mainstream reproducible environments.
+
+---
+
