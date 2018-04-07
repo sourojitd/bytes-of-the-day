@@ -91,3 +91,10 @@
 
 ---
 
+## 2018-04-07 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (097)** — Blazing-fast code search; respects .gitignore.
+
+---
+
