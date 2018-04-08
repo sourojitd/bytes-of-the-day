@@ -91,3 +91,10 @@
 
 ---
 
+## 2018-04-08 (Sunday)
+
+### Mindset
+**Mindset: Write docs for your future self; you'll thank you (098)** — Write docs for your future self; you'll thank you.
+
+---
+
