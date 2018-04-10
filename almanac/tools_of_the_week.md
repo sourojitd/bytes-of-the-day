@@ -126,3 +126,12 @@ https://react.dev/
 
 ---
 
+## 2018-04-10 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2018)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
