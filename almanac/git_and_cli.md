@@ -98,3 +98,10 @@
 
 ---
 
+## 2018-04-14 (Saturday)
+
+### Git & CLI
+**fd (104)** — Modern, fast alternative to find with sane defaults.
+
+---
+
