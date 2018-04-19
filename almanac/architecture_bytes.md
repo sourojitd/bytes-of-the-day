@@ -105,3 +105,10 @@
 
 ---
 
+## 2018-04-19 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (109)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
