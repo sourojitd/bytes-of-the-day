@@ -105,3 +105,10 @@
 
 ---
 
+## 2018-04-21 (Saturday)
+
+### Git & CLI
+**bat (111)** — cat with syntax highlighting and line numbers.
+
+---
+
