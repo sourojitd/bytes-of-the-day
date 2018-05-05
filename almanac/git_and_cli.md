@@ -119,3 +119,10 @@
 
 ---
 
+## 2018-05-05 (Saturday)
+
+### Git & CLI
+**fzf (125)** — Fuzzy finder for files, history, and git objects.
+
+---
+
