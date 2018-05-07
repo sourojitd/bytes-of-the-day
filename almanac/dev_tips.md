@@ -126,3 +126,10 @@
 
 ---
 
+## 2018-05-07 (Monday)
+
+### Dev Tips
+**Always cap concurrency; avoid unbounded thread poo** — Always cap concurrency; avoid unbounded thread pools.
+
+---
+
