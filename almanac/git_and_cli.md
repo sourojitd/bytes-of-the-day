@@ -126,3 +126,10 @@
 
 ---
 
+## 2018-05-12 (Saturday)
+
+### Git & CLI
+**jq (132)** — . filters JSON streams; great for pipelines.
+
+---
+
