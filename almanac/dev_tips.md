@@ -133,3 +133,10 @@
 
 ---
 
+## 2018-05-14 (Monday)
+
+### Dev Tips
+**Fail closed for authz; fail open for logging/analy** — Fail closed for authz; fail open for logging/analytics paths.
+
+---
+
