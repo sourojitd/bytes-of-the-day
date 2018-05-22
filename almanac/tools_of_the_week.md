@@ -180,3 +180,12 @@ https://htop.dev/
 
 ---
 
+## 2018-05-22 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2018)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
