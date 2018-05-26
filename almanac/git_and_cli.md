@@ -140,3 +140,10 @@
 
 ---
 
+## 2018-05-26 (Saturday)
+
+### Git & CLI
+**git bisect (146)** — Binary-search to find the offending commit quickly.
+
+---
+
