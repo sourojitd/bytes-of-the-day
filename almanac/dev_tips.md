@@ -147,3 +147,10 @@
 
 ---
 
+## 2018-05-28 (Monday)
+
+### Dev Tips
+**Validate input at edges; trust nothing from outsid (148)** — Validate input at edges; trust nothing from outside your process.
+
+---
+
