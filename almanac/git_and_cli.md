@@ -161,3 +161,10 @@
 
 ---
 
+## 2018-06-16 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (167)** — Blazing-fast code search; respects .gitignore.
+
+---
+
