@@ -161,3 +161,10 @@
 
 ---
 
+## 2018-06-17 (Sunday)
+
+### Mindset
+**Mindset: Write docs for your future self; you'll thank you (168)** — Write docs for your future self; you'll thank you.
+
+---
+
