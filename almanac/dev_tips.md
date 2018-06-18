@@ -168,3 +168,10 @@
 
 ---
 
+## 2018-06-18 (Monday)
+
+### Dev Tips
+**Measure before optimizing; add metrics around late (169)** — Measure before optimizing; add metrics around latency and error rates.
+
+---
+
