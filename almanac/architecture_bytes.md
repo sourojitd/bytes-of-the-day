@@ -168,3 +168,10 @@
 
 ---
 
+## 2018-06-21 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (172)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
