@@ -168,3 +168,10 @@
 
 ---
 
+## 2018-06-23 (Saturday)
+
+### Git & CLI
+**fd (174)** — Modern, fast alternative to find with sane defaults.
+
+---
+
