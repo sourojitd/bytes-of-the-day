@@ -175,3 +175,10 @@
 
 ---
 
+## 2018-06-28 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (179)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
