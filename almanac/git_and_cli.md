@@ -175,3 +175,10 @@
 
 ---
 
+## 2018-06-30 (Saturday)
+
+### Git & CLI
+**bat (181)** — cat with syntax highlighting and line numbers.
+
+---
+
