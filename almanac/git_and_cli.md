@@ -182,3 +182,10 @@
 
 ---
 
+## 2018-07-07 (Saturday)
+
+### Git & CLI
+**tldr (188)** — Community examples for common commands.
+
+---
+
