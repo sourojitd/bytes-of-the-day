@@ -196,3 +196,10 @@
 
 ---
 
+## 2018-07-21 (Saturday)
+
+### Git & CLI
+**jq (202)** — . filters JSON streams; great for pipelines.
+
+---
+
