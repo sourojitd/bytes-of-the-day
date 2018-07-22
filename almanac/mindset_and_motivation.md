@@ -196,3 +196,10 @@
 
 ---
 
+## 2018-07-22 (Sunday)
+
+### Mindset
+**Mindset: Prefer clarity over cleverness; future maintainers are humans (203)** — Prefer clarity over cleverness; future maintainers are humans.
+
+---
+
