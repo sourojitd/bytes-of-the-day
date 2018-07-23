@@ -203,3 +203,10 @@
 
 ---
 
+## 2018-07-23 (Monday)
+
+### Dev Tips
+**Document decisions (ADRs) to record trade-offs and (204)** — Document decisions (ADRs) to record trade-offs and context.
+
+---
+
