@@ -203,3 +203,10 @@
 
 ---
 
+## 2018-07-27 (Friday)
+
+### Tech History
+**SQLite (208)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
