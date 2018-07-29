@@ -203,3 +203,10 @@
 
 ---
 
+## 2018-07-29 (Sunday)
+
+### Mindset
+**Mindset: Own incidents; share learnings, not blame (210)** — Own incidents; share learnings, not blame.
+
+---
+
