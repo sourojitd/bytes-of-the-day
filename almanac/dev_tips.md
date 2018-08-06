@@ -217,3 +217,10 @@
 
 ---
 
+## 2018-08-06 (Monday)
+
+### Dev Tips
+**Encrypt in transit & at rest; rotate credentials r (218)** — Encrypt in transit & at rest; rotate credentials regularly.
+
+---
+
