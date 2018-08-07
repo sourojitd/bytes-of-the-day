@@ -279,3 +279,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2018-08-07 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2018)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
