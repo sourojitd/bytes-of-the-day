@@ -217,3 +217,10 @@
 
 ---
 
+## 2018-08-12 (Sunday)
+
+### Mindset
+**Mindset: Learning sticks when you build; ship tiny projects (224)** — Learning sticks when you build; ship tiny projects.
+
+---
+
