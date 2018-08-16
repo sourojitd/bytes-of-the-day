@@ -224,3 +224,10 @@
 
 ---
 
+## 2018-08-16 (Thursday)
+
+### Architecture Byte
+**CQRS  (228)** — CQRS — separate read/write models; combine with events for projections.
+
+---
+
