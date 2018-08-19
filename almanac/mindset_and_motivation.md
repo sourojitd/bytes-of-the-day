@@ -224,3 +224,10 @@
 
 ---
 
+## 2018-08-19 (Sunday)
+
+### Mindset
+**Mindset: Refactor without fear; delete code to gain clarity (231)** — Refactor without fear; delete code to gain clarity.
+
+---
+
