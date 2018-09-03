@@ -245,3 +245,10 @@
 
 ---
 
+## 2018-09-03 (Monday)
+
+### Dev Tips
+**Prefer UTC everywhere; convert at the edges (246)** — Prefer UTC everywhere; convert at the edges.
+
+---
+
