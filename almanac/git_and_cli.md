@@ -245,3 +245,10 @@
 
 ---
 
+## 2018-09-08 (Saturday)
+
+### Git & CLI
+**bat (251)** — cat with syntax highlighting and line numbers.
+
+---
+
