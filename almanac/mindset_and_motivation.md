@@ -245,3 +245,10 @@
 
 ---
 
+## 2018-09-09 (Sunday)
+
+### Mindset
+**Mindset: Automate boring work; protect your focus time (252)** — Automate boring work; protect your focus time.
+
+---
+
