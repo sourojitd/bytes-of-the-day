@@ -259,3 +259,10 @@
 
 ---
 
+## 2018-09-17 (Monday)
+
+### Dev Tips
+**Use canary or blue/green for safer rollouts (260)** — Use canary or blue/green for safer rollouts.
+
+---
+
