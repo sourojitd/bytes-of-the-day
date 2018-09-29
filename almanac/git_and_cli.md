@@ -266,3 +266,10 @@
 
 ---
 
+## 2018-09-29 (Saturday)
+
+### Git & CLI
+**jq (272)** — . filters JSON streams; great for pipelines.
+
+---
+
