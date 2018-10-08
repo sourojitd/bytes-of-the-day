@@ -280,3 +280,10 @@
 
 ---
 
+## 2018-10-08 (Monday)
+
+### Dev Tips
+**Prefer idempotent APIs for safe retries; set timeo (281)** — Prefer idempotent APIs for safe retries; set timeouts and use connection pools.
+
+---
+
