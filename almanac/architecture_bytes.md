@@ -280,3 +280,10 @@
 
 ---
 
+## 2018-10-11 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (284)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
