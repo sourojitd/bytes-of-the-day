@@ -280,3 +280,10 @@
 
 ---
 
+## 2018-10-12 (Friday)
+
+### Tech History
+**UNIX philosophy (285)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
