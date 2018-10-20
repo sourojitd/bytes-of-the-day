@@ -287,3 +287,10 @@
 
 ---
 
+## 2018-10-20 (Saturday)
+
+### Git & CLI
+**git rebase -i (293)** — Rewrite/squash recent commits to curate history.
+
+---
+
