@@ -301,3 +301,10 @@
 
 ---
 
+## 2018-10-29 (Monday)
+
+### Dev Tips
+**Use feature flags to decouple deploy from release (302)** — Use feature flags to decouple deploy from release.
+
+---
+
