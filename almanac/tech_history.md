@@ -301,3 +301,10 @@
 
 ---
 
+## 2018-11-02 (Friday)
+
+### Tech History
+**Docker (2013) (306)** — Docker (2013) — containers mainstream reproducible environments.
+
+---
+
