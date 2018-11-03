@@ -301,3 +301,10 @@
 
 ---
 
+## 2018-11-03 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (307)** — Blazing-fast code search; respects .gitignore.
+
+---
+
