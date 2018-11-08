@@ -308,3 +308,10 @@
 
 ---
 
+## 2018-11-08 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (312)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
