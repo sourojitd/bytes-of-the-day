@@ -308,3 +308,10 @@
 
 ---
 
+## 2018-11-10 (Saturday)
+
+### Git & CLI
+**fd (314)** — Modern, fast alternative to find with sane defaults.
+
+---
+
