@@ -315,3 +315,10 @@
 
 ---
 
+## 2018-11-12 (Monday)
+
+### Dev Tips
+**Define SLIs/SLOs; alert on user-impacting symptoms (316)** — Define SLIs/SLOs; alert on user-impacting symptoms, not just infrastructure.
+
+---
+
