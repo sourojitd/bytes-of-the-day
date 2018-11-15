@@ -315,3 +315,10 @@
 
 ---
 
+## 2018-11-15 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (319)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
