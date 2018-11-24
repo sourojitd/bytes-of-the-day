@@ -322,3 +322,10 @@
 
 ---
 
+## 2018-11-24 (Saturday)
+
+### Git & CLI
+**tldr (328)** — Community examples for common commands.
+
+---
+
