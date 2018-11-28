@@ -527,3 +527,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2018-11-28 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [332]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
