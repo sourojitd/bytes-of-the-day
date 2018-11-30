@@ -329,3 +329,10 @@
 
 ---
 
+## 2018-11-30 (Friday)
+
+### Tech History
+**React (2013) (334)** — React (2013) — component model and virtual DOM spread widely.
+
+---
+
