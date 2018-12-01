@@ -329,3 +329,10 @@
 
 ---
 
+## 2018-12-01 (Saturday)
+
+### Git & CLI
+**fzf (335)** — Fuzzy finder for files, history, and git objects.
+
+---
+
