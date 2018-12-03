@@ -336,3 +336,10 @@
 
 ---
 
+## 2018-12-03 (Monday)
+
+### Dev Tips
+**Design DTOs immutable; avoid shared mutable state (337)** — Design DTOs immutable; avoid shared mutable state.
+
+---
+
