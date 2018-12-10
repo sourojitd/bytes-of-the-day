@@ -343,3 +343,10 @@
 
 ---
 
+## 2018-12-10 (Monday)
+
+### Dev Tips
+**Document decisions (ADRs) to record trade-offs and (344)** — Document decisions (ADRs) to record trade-offs and context.
+
+---
+
