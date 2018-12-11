@@ -441,3 +441,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2018-12-11 (Tuesday)
+
+### Tool of the Week
+**PyTorch 1.0** — First stable release for research & prod.
+
+https://pytorch.org/
+
+---
+
