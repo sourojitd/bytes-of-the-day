@@ -343,3 +343,10 @@
 
 ---
 
+## 2018-12-13 (Thursday)
+
+### Architecture Byte
+**Cache Aside  (347)** — Cache Aside — app manages cache population and invalidation.
+
+---
+
