@@ -364,3 +364,10 @@
 
 ---
 
+## 2019-01-04 (Friday)
+
+### Tech History
+**UNIX philosophy** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
