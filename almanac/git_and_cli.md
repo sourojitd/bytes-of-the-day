@@ -364,3 +364,10 @@
 
 ---
 
+## 2019-01-05 (Saturday)
+
+### Git & CLI
+**git bisect** — Binary-search to find the offending commit quickly.
+
+---
+
