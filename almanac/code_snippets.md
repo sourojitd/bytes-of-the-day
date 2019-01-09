@@ -593,3 +593,14 @@ time (your_cmd) 2>&1 | tail -n 3
 
 ---
 
+## 2019-01-09 (Wednesday)
+
+### Code Snippet
+**Snippet (python): Dictionary comprehension**
+
+```python
+squares = {x: x*x for x in range(10)}
+```
+
+---
+
