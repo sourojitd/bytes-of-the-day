@@ -495,3 +495,12 @@ https://git-scm.com/
 
 ---
 
+## 2019-01-22 (Tuesday)
+
+### Tool of the Week
+**VS Code 1.20** — Popular editor update; extensibility ecosystem.
+
+https://code.visualstudio.com/
+
+---
+
