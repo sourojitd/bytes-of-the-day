@@ -385,3 +385,10 @@
 
 ---
 
+## 2019-01-27 (Sunday)
+
+### Mindset
+**Mindset: Write docs for your future self; you'll thank you** — Write docs for your future self; you'll thank you.
+
+---
+
