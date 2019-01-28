@@ -392,3 +392,10 @@
 
 ---
 
+## 2019-01-28 (Monday)
+
+### Dev Tips
+**Use feature flags to decouple deploy from release** — Use feature flags to decouple deploy from release.
+
+---
+
