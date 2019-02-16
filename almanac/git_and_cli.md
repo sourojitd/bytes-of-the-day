@@ -406,3 +406,10 @@
 
 ---
 
+## 2019-02-16 (Saturday)
+
+### Git & CLI
+**tldr** — Community examples for common commands.
+
+---
+
