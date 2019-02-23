@@ -413,3 +413,10 @@
 
 ---
 
+## 2019-02-23 (Saturday)
+
+### Git & CLI
+**fzf** — Fuzzy finder for files, history, and git objects.
+
+---
+
