@@ -420,3 +420,10 @@
 
 ---
 
+## 2019-02-28 (Thursday)
+
+### Architecture Byte
+**Saga ** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
