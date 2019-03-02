@@ -420,3 +420,10 @@
 
 ---
 
+## 2019-03-02 (Saturday)
+
+### Git & CLI
+**jq** — . filters JSON streams; great for pipelines.
+
+---
+
