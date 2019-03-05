@@ -549,3 +549,12 @@ https://curl.se/
 
 ---
 
+## 2019-03-05 (Tuesday)
+
+### Tool of the Week
+**jq** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
