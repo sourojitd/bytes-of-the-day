@@ -434,3 +434,10 @@
 
 ---
 
+## 2019-03-14 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (073)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
