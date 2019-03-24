@@ -441,3 +441,10 @@
 
 ---
 
+## 2019-03-24 (Sunday)
+
+### Mindset
+**Mindset: Learning sticks when you build; ship tiny projects (083)** — Learning sticks when you build; ship tiny projects.
+
+---
+
