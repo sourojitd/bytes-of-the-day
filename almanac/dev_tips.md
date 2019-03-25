@@ -448,3 +448,10 @@
 
 ---
 
+## 2019-03-25 (Monday)
+
+### Dev Tips
+**Encrypt in transit & at rest; rotate credentials r** — Encrypt in transit & at rest; rotate credentials regularly.
+
+---
+
