@@ -576,3 +576,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2019-03-26 (Tuesday)
+
+### Tool of the Week
+**htop** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
