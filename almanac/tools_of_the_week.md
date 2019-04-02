@@ -585,3 +585,12 @@ https://htop.dev/
 
 ---
 
+## 2019-04-02 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2019)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
