@@ -455,3 +455,10 @@
 
 ---
 
+## 2019-04-04 (Thursday)
+
+### Architecture Byte
+**Event Sourcing  (094)** — Event Sourcing — persist domain events; rebuild state via replay.
+
+---
+
