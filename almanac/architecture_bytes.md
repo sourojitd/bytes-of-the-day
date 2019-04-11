@@ -462,3 +462,10 @@
 
 ---
 
+## 2019-04-11 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (101)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
