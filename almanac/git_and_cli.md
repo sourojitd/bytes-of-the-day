@@ -462,3 +462,10 @@
 
 ---
 
+## 2019-04-13 (Saturday)
+
+### Git & CLI
+**fd (103)** — Modern, fast alternative to find with sane defaults.
+
+---
+
