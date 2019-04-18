@@ -469,3 +469,10 @@
 
 ---
 
+## 2019-04-18 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (108)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
