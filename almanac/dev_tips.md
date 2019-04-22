@@ -476,3 +476,10 @@
 
 ---
 
+## 2019-04-22 (Monday)
+
+### Dev Tips
+**Prefer UTC everywhere; convert at the edges** — Prefer UTC everywhere; convert at the edges.
+
+---
+
