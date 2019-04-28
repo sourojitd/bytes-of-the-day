@@ -476,3 +476,10 @@
 
 ---
 
+## 2019-04-28 (Sunday)
+
+### Mindset
+**Mindset: Make performance observable; latency is a feature (118)** — Make performance observable; latency is a feature.
+
+---
+
