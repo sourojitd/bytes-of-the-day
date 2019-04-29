@@ -483,3 +483,10 @@
 
 ---
 
+## 2019-04-29 (Monday)
+
+### Dev Tips
+**Add request IDs and propagate them across services** — Add request IDs and propagate them across services.
+
+---
+
