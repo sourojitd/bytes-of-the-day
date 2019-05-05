@@ -483,3 +483,10 @@
 
 ---
 
+## 2019-05-05 (Sunday)
+
+### Mindset
+**Mindset: Keep PRs small; reviews become faster and kinder (125)** — Keep PRs small; reviews become faster and kinder.
+
+---
+
