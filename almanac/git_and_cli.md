@@ -490,3 +490,10 @@
 
 ---
 
+## 2019-05-11 (Saturday)
+
+### Git & CLI
+**jq (131)** — . filters JSON streams; great for pipelines.
+
+---
+
