@@ -639,3 +639,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2019-05-14 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2019)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
