@@ -497,3 +497,10 @@
 
 ---
 
+## 2019-05-19 (Sunday)
+
+### Mindset
+**Mindset: Own incidents; share learnings, not blame (139)** — Own incidents; share learnings, not blame.
+
+---
+
