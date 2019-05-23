@@ -504,3 +504,10 @@
 
 ---
 
+## 2019-05-23 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (143)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
