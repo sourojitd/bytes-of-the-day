@@ -504,3 +504,10 @@
 
 ---
 
+## 2019-05-24 (Friday)
+
+### Tech History
+**UNIX philosophy (144)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
