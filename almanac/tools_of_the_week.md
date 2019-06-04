@@ -666,3 +666,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2019-06-04 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2019)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
