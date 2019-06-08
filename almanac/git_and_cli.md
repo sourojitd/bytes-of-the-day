@@ -518,3 +518,10 @@
 
 ---
 
+## 2019-06-08 (Saturday)
+
+### Git & CLI
+**git worktree (159)** — Multiple working trees per repo for parallel tasks.
+
+---
+
