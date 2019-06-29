@@ -539,3 +539,10 @@
 
 ---
 
+## 2019-06-29 (Saturday)
+
+### Git & CLI
+**bat (180)** — cat with syntax highlighting and line numbers.
+
+---
+
