@@ -539,3 +539,10 @@
 
 ---
 
+## 2019-06-30 (Sunday)
+
+### Mindset
+**Mindset: Automate boring work; protect your focus time (181)** — Automate boring work; protect your focus time.
+
+---
+
