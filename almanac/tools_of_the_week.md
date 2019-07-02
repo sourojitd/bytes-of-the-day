@@ -702,3 +702,12 @@ https://curl.se/
 
 ---
 
+## 2019-07-02 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2019)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
