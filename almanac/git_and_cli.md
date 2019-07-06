@@ -546,3 +546,10 @@
 
 ---
 
+## 2019-07-06 (Saturday)
+
+### Git & CLI
+**tldr (187)** — Community examples for common commands.
+
+---
+
