@@ -553,3 +553,10 @@
 
 ---
 
+## 2019-07-08 (Monday)
+
+### Dev Tips
+**Cache cautiously: define TTLs and invalidation rul (189)** — Cache cautiously: define TTLs and invalidation rules up front.
+
+---
+
