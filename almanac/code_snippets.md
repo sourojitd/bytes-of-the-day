@@ -885,3 +885,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2019-07-10 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [191]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
