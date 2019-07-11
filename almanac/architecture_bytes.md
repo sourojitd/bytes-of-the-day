@@ -553,3 +553,10 @@
 
 ---
 
+## 2019-07-11 (Thursday)
+
+### Architecture Byte
+**Outbox Pattern  (192)** — Outbox Pattern — reliably publish events alongside DB writes.
+
+---
+
