@@ -553,3 +553,10 @@
 
 ---
 
+## 2019-07-13 (Saturday)
+
+### Git & CLI
+**fzf (194)** — Fuzzy finder for files, history, and git objects.
+
+---
+
