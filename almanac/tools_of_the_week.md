@@ -720,3 +720,12 @@ https://www.rust-lang.org/
 
 ---
 
+## 2019-07-16 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2019)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
