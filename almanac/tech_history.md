@@ -567,3 +567,10 @@
 
 ---
 
+## 2019-07-26 (Friday)
+
+### Tech History
+**SQLite (207)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
