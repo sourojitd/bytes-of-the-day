@@ -567,3 +567,10 @@
 
 ---
 
+## 2019-07-27 (Saturday)
+
+### Git & CLI
+**eza (208)** — Modern replacement for ls with git info.
+
+---
+
