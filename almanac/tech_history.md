@@ -574,3 +574,10 @@
 
 ---
 
+## 2019-08-02 (Friday)
+
+### Tech History
+**UNIX philosophy (214)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
