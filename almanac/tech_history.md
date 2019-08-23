@@ -595,3 +595,10 @@
 
 ---
 
+## 2019-08-23 (Friday)
+
+### Tech History
+**Docker (2013) (235)** — Docker (2013) — containers mainstream reproducible environments.
+
+---
+
