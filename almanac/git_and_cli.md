@@ -595,3 +595,10 @@
 
 ---
 
+## 2019-08-24 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (236)** — Blazing-fast code search; respects .gitignore.
+
+---
+
