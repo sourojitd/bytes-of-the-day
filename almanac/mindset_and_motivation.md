@@ -595,3 +595,10 @@
 
 ---
 
+## 2019-08-25 (Sunday)
+
+### Mindset
+**Mindset: Write docs for your future self; you'll thank you (237)** — Write docs for your future self; you'll thank you.
+
+---
+
