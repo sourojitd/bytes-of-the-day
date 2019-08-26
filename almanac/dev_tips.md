@@ -602,3 +602,10 @@
 
 ---
 
+## 2019-08-26 (Monday)
+
+### Dev Tips
+**Rate-limit public endpoints; return 429 with retry (238)** — Rate-limit public endpoints; return 429 with retry hints.
+
+---
+
