@@ -602,3 +602,10 @@
 
 ---
 
+## 2019-08-31 (Saturday)
+
+### Git & CLI
+**fd (243)** — Modern, fast alternative to find with sane defaults.
+
+---
+
