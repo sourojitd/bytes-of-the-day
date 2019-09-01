@@ -602,3 +602,10 @@
 
 ---
 
+## 2019-09-01 (Sunday)
+
+### Mindset
+**Mindset: Ask better questions; debugging starts with a clear hypothesis (244)** — Ask better questions; debugging starts with a clear hypothesis.
+
+---
+
