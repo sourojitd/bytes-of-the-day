@@ -609,3 +609,10 @@
 
 ---
 
+## 2019-09-02 (Monday)
+
+### Dev Tips
+**Separate read/write stores (if needed) to scale in (245)** — Separate read/write stores (if needed) to scale independently.
+
+---
+
