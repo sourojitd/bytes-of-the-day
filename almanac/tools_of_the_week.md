@@ -783,3 +783,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2019-09-03 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2019)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
