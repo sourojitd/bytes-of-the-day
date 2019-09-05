@@ -609,3 +609,10 @@
 
 ---
 
+## 2019-09-05 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (248)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
