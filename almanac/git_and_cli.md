@@ -609,3 +609,10 @@
 
 ---
 
+## 2019-09-07 (Saturday)
+
+### Git & CLI
+**bat (250)** — cat with syntax highlighting and line numbers.
+
+---
+
