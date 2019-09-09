@@ -616,3 +616,10 @@
 
 ---
 
+## 2019-09-09 (Monday)
+
+### Dev Tips
+**Prefer UTC everywhere; convert at the edges (252)** — Prefer UTC everywhere; convert at the edges.
+
+---
+
