@@ -616,3 +616,10 @@
 
 ---
 
+## 2019-09-15 (Sunday)
+
+### Mindset
+**Mindset: Make performance observable; latency is a feature (258)** — Make performance observable; latency is a feature.
+
+---
+
