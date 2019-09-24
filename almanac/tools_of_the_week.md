@@ -810,3 +810,12 @@ https://htop.dev/
 
 ---
 
+## 2019-09-24 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.16** — CRD improvements, deprecations.
+
+https://kubernetes.io/
+
+---
+
