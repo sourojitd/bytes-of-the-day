@@ -637,3 +637,10 @@
 
 ---
 
+## 2019-09-30 (Monday)
+
+### Dev Tips
+**Always cap concurrency; avoid unbounded thread poo (273)** — Always cap concurrency; avoid unbounded thread pools.
+
+---
+
