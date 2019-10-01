@@ -819,3 +819,12 @@ https://kubernetes.io/
 
 ---
 
+## 2019-10-01 (Tuesday)
+
+### Tool of the Week
+**TensorFlow 2.0** — Eager execution by default; Keras-centric.
+
+https://www.tensorflow.org/
+
+---
+
