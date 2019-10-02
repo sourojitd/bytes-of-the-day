@@ -1019,3 +1019,14 @@ ctx, cancel := context.WithTimeout(ctx, 3*time.Second)
 
 ---
 
+## 2019-10-02 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Debounce [275]**
+
+```javascript
+const debounced = _.debounce(fn, 200);
+```
+
+---
+
