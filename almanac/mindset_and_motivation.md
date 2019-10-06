@@ -637,3 +637,10 @@
 
 ---
 
+## 2019-10-06 (Sunday)
+
+### Mindset
+**Mindset: Own incidents; share learnings, not blame (279)** — Own incidents; share learnings, not blame.
+
+---
+
