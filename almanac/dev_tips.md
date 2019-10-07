@@ -644,3 +644,10 @@
 
 ---
 
+## 2019-10-07 (Monday)
+
+### Dev Tips
+**Fail closed for authz; fail open for logging/analy (280)** — Fail closed for authz; fail open for logging/analytics paths.
+
+---
+
