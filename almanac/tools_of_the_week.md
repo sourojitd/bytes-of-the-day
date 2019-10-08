@@ -828,3 +828,12 @@ https://www.tensorflow.org/
 
 ---
 
+## 2019-10-08 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2019)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
