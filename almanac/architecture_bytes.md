@@ -644,3 +644,10 @@
 
 ---
 
+## 2019-10-10 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (283)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
