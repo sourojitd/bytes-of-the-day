@@ -644,3 +644,10 @@
 
 ---
 
+## 2019-10-11 (Friday)
+
+### Tech History
+**UNIX philosophy (284)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
