@@ -644,3 +644,10 @@
 
 ---
 
+## 2019-10-13 (Sunday)
+
+### Mindset
+**Mindset: Small daily wins compound more than rare heroics (286)** — Small daily wins compound more than rare heroics.
+
+---
+
