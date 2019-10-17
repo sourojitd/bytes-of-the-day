@@ -651,3 +651,10 @@
 
 ---
 
+## 2019-10-17 (Thursday)
+
+### Architecture Byte
+**Bulkhead  (290)** — Bulkhead — isolate critical resources to contain blast radius.
+
+---
+
