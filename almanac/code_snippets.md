@@ -1064,3 +1064,14 @@ Map<String,User> m = users.stream()
 
 ---
 
+## 2019-10-30 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Optional chaining [303]**
+
+```javascript
+const city = user?.address?.city;
+```
+
+---
+
