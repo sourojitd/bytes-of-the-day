@@ -665,3 +665,10 @@
 
 ---
 
+## 2019-11-02 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (306)** — Blazing-fast code search; respects .gitignore.
+
+---
+
