@@ -679,3 +679,10 @@
 
 ---
 
+## 2019-11-15 (Friday)
+
+### Tech History
+**Let's Encrypt (2015) (319)** — Let's Encrypt (2015) — free automated TLS changes the web.
+
+---
+
