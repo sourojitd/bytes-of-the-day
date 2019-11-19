@@ -882,3 +882,12 @@ https://curl.se/
 
 ---
 
+## 2019-11-19 (Tuesday)
+
+### Tool of the Week
+**GitHub Actions GA** — CI/CD platform built into GitHub.
+
+https://github.com/features/actions
+
+---
+
