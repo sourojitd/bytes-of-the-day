@@ -891,3 +891,12 @@ https://github.com/features/actions
 
 ---
 
+## 2019-11-26 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2019)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
