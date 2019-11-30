@@ -693,3 +693,10 @@
 
 ---
 
+## 2019-11-30 (Saturday)
+
+### Git & CLI
+**fzf (334)** — Fuzzy finder for files, history, and git objects.
+
+---
+
