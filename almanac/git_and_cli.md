@@ -700,3 +700,10 @@
 
 ---
 
+## 2019-12-07 (Saturday)
+
+### Git & CLI
+**jq (341)** — . filters JSON streams; great for pipelines.
+
+---
+
