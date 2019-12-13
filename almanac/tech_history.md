@@ -707,3 +707,10 @@
 
 ---
 
+## 2019-12-13 (Friday)
+
+### Tech History
+**SQLite (347)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
