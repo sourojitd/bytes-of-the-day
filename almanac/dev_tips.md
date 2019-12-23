@@ -721,3 +721,10 @@
 
 ---
 
+## 2019-12-23 (Monday)
+
+### Dev Tips
+**Prefer batch writes for hot paths; reduce chattine (357)** — Prefer batch writes for hot paths; reduce chattiness.
+
+---
+
