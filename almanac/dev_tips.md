@@ -728,3 +728,10 @@
 
 ---
 
+## 2019-12-30 (Monday)
+
+### Dev Tips
+**Encrypt in transit & at rest; rotate credentials r (364)** — Encrypt in transit & at rest; rotate credentials regularly.
+
+---
+
