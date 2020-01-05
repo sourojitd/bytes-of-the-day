@@ -728,3 +728,10 @@
 
 ---
 
+## 2020-01-05 (Sunday)
+
+### Mindset
+Small consistent improvements beat weekend sprints.
+
+---
+
