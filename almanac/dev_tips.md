@@ -777,3 +777,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2020-02-17 (Monday)
+
+### Dev Tips
+Prefer connection pooling, timeouts, and retries in any networked service.
+
+---
+
