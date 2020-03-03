@@ -1017,3 +1017,12 @@ https://htop.dev/
 
 ---
 
+## 2020-03-03 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2019)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
