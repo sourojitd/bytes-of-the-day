@@ -812,3 +812,10 @@
 
 ---
 
+## 2020-03-27 (Friday)
+
+### Tech History
+**UNIX Philosophy** — Write programs that do one thing well.
+
+---
+
