@@ -819,3 +819,10 @@
 
 ---
 
+## 2020-04-04 (Saturday)
+
+### Git & CLI
+**git bisect** — Binary search for the commit that introduced a bug.
+
+---
+
