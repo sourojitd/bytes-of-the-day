@@ -861,3 +861,10 @@
 
 ---
 
+## 2020-05-15 (Friday)
+
+### Tech History
+**UNIX Philosophy** — Write programs that do one thing well.
+
+---
+
