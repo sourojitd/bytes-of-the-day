@@ -903,3 +903,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2020-06-22 (Monday)
+
+### Dev Tips
+Prefer connection pooling, timeouts, and retries in any networked service.
+
+---
+
