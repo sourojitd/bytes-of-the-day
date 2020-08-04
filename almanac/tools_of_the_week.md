@@ -1215,3 +1215,12 @@ https://htop.dev/
 
 ---
 
+## 2020-08-04 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2019)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
