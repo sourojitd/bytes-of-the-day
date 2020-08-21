@@ -959,3 +959,10 @@
 
 ---
 
+## 2020-08-21 (Friday)
+
+### Tech History
+**UNIX Philosophy** — Write programs that do one thing well.
+
+---
+
