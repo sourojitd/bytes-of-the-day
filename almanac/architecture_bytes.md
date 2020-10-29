@@ -1029,3 +1029,10 @@
 
 ---
 
+## 2020-10-29 (Thursday)
+
+### Architecture Byte
+**Bulkhead Pattern** — Isolate resource pools to contain failure blast radius.
+
+---
+
