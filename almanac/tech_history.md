@@ -1029,3 +1029,10 @@
 
 ---
 
+## 2020-10-30 (Friday)
+
+### Tech History
+**UNIX Philosophy** — Write programs that do one thing well.
+
+---
+
