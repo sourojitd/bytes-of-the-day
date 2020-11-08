@@ -1036,3 +1036,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2020-11-08 (Sunday)
+
+### Mindset
+Small consistent improvements beat weekend sprints.
+
+---
+
