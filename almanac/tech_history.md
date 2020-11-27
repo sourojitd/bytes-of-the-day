@@ -1057,3 +1057,10 @@
 
 ---
 
+## 2020-11-27 (Friday)
+
+### Tech History
+**UNIX Philosophy** — Write programs that do one thing well.
+
+---
+
