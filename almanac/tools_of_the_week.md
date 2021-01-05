@@ -1413,3 +1413,12 @@ https://htop.dev/
 
 ---
 
+## 2021-01-05 (Tuesday)
+
+### Tool of the Week
+**HikariCP 2.7.0** — Fast JDBC connection pool for Java services.
+
+https://github.com/brettwooldridge/HikariCP
+
+---
+
