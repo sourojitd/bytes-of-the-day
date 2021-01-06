@@ -1641,3 +1641,14 @@ echo 'Hello from history-safe commit'
 
 ---
 
+## 2021-01-06 (Wednesday)
+
+### Code Snippet
+**Snippet (bash): Find slowest lines**
+
+```bash
+time (your_cmd) 2>&1 | tail -n 3
+```
+
+---
+
