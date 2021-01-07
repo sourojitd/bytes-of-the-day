@@ -1099,3 +1099,10 @@
 
 ---
 
+## 2021-01-07 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker ** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
