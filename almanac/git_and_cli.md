@@ -1106,3 +1106,10 @@
 
 ---
 
+## 2021-01-16 (Saturday)
+
+### Git & CLI
+**git worktree** — Multiple working trees per repo for parallel tasks.
+
+---
+
