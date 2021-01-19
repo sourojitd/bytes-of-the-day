@@ -1431,3 +1431,12 @@ https://kubernetes.io/
 
 ---
 
+## 2021-01-19 (Tuesday)
+
+### Tool of the Week
+**Git 2.16** — Performance and feature improvements in Git.
+
+https://git-scm.com/
+
+---
+
