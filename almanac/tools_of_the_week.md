@@ -1440,3 +1440,12 @@ https://git-scm.com/
 
 ---
 
+## 2021-01-26 (Tuesday)
+
+### Tool of the Week
+**VS Code 1.20** — Popular editor update; extensibility ecosystem.
+
+https://code.visualstudio.com/
+
+---
+
