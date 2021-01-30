@@ -1120,3 +1120,10 @@
 
 ---
 
+## 2021-01-30 (Saturday)
+
+### Git & CLI
+**fd** — Modern, fast alternative to find with sane defaults.
+
+---
+
