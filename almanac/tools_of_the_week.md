@@ -1449,3 +1449,12 @@ https://code.visualstudio.com/
 
 ---
 
+## 2021-02-02 (Tuesday)
+
+### Tool of the Week
+**Spring Boot 2.0** — Major Spring Boot release for prod services.
+
+https://spring.io/projects/spring-boot
+
+---
+
