@@ -1127,3 +1127,10 @@
 
 ---
 
+## 2021-02-06 (Saturday)
+
+### Git & CLI
+**bat** — cat with syntax highlighting and line numbers.
+
+---
+
