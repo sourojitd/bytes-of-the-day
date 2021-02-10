@@ -1697,3 +1697,14 @@ SELECT col, COUNT(*) c FROM t GROUP BY col HAVING c>1;
 
 ---
 
+## 2021-02-10 (Wednesday)
+
+### Code Snippet
+**Snippet (bash): Retry with backoff**
+
+```bash
+for i in {1..5}; do cmd && break; sleep $((2**i)); done
+```
+
+---
+
