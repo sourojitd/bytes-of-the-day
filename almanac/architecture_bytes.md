@@ -1134,3 +1134,10 @@
 
 ---
 
+## 2021-02-11 (Thursday)
+
+### Architecture Byte
+**Rate Limiter ** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
