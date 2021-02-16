@@ -1467,3 +1467,12 @@ https://react.dev/
 
 ---
 
+## 2021-02-16 (Tuesday)
+
+### Tool of the Week
+**PyTorch 1.0** — First stable release for research & prod.
+
+https://pytorch.org/
+
+---
+
