@@ -1155,3 +1155,10 @@
 
 ---
 
+## 2021-03-04 (Thursday)
+
+### Architecture Byte
+**Saga ** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
