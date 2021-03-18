@@ -1169,3 +1169,10 @@
 
 ---
 
+## 2021-03-18 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (077)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
