@@ -1521,3 +1521,12 @@ https://github.com/features/actions
 
 ---
 
+## 2021-03-30 (Tuesday)
+
+### Tool of the Week
+**Deno 1.0** — Secure TS/JS runtime with modern defaults.
+
+https://deno.land/
+
+---
+
