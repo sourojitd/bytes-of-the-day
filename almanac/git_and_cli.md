@@ -1197,3 +1197,10 @@
 
 ---
 
+## 2021-04-17 (Saturday)
+
+### Git & CLI
+**bat (107)** — cat with syntax highlighting and line numbers.
+
+---
+
