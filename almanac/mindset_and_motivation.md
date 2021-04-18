@@ -1197,3 +1197,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2021-04-18 (Sunday)
+
+### Mindset
+**Mindset: Automate boring work; protect your focus time (108)** — Automate boring work; protect your focus time.
+
+---
+
