@@ -1548,3 +1548,12 @@ https://git-scm.com/
 
 ---
 
+## 2021-04-20 (Tuesday)
+
+### Tool of the Week
+**curl** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
