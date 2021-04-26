@@ -1211,3 +1211,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-04-26 (Monday)
+
+### Dev Tips
+**Add request IDs and propagate them across services** — Add request IDs and propagate them across services.
+
+---
+
