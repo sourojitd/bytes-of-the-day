@@ -1557,3 +1557,12 @@ https://curl.se/
 
 ---
 
+## 2021-04-27 (Tuesday)
+
+### Tool of the Week
+**jq** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
