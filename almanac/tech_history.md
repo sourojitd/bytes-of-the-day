@@ -1211,3 +1211,10 @@
 
 ---
 
+## 2021-04-30 (Friday)
+
+### Tech History
+**React (2013) (120)** — React (2013) — component model and virtual DOM spread widely.
+
+---
+
