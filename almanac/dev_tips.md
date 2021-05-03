@@ -1218,3 +1218,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-05-03 (Monday)
+
+### Dev Tips
+**Use canary or blue/green for safer rollouts** — Use canary or blue/green for safer rollouts.
+
+---
+
