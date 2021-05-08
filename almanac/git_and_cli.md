@@ -1218,3 +1218,10 @@
 
 ---
 
+## 2021-05-08 (Saturday)
+
+### Git & CLI
+**jq (128)** — . filters JSON streams; great for pipelines.
+
+---
+
