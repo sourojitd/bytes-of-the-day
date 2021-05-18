@@ -1584,3 +1584,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2021-05-18 (Tuesday)
+
+### Tool of the Week
+**htop** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
