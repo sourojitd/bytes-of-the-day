@@ -1232,3 +1232,10 @@
 
 ---
 
+## 2021-05-21 (Friday)
+
+### Tech History
+**UNIX philosophy (141)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
