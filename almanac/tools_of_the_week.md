@@ -1593,3 +1593,12 @@ https://htop.dev/
 
 ---
 
+## 2021-05-25 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2021)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
