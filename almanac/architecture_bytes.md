@@ -1239,3 +1239,10 @@
 
 ---
 
+## 2021-05-27 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (147)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
