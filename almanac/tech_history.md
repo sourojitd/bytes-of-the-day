@@ -1246,3 +1246,10 @@
 
 ---
 
+## 2021-06-04 (Friday)
+
+### Tech History
+**Git (2005) (155)** — Git (2005) — distributed VCS reshapes collaboration.
+
+---
+
