@@ -1246,3 +1246,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2021-06-06 (Sunday)
+
+### Mindset
+**Mindset: Refactor without fear; delete code to gain clarity (157)** — Refactor without fear; delete code to gain clarity.
+
+---
+
