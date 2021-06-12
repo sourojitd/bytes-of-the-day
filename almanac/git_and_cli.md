@@ -1253,3 +1253,10 @@
 
 ---
 
+## 2021-06-12 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (163)** — Blazing-fast code search; respects .gitignore.
+
+---
+
