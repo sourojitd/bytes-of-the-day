@@ -1260,3 +1260,10 @@
 
 ---
 
+## 2021-06-18 (Friday)
+
+### Tech History
+**Kubernetes (2014) (169)** — Kubernetes (2014) — container orchestration becomes standard.
+
+---
+
