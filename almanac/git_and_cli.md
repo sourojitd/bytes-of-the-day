@@ -1260,3 +1260,10 @@
 
 ---
 
+## 2021-06-19 (Saturday)
+
+### Git & CLI
+**fd (170)** — Modern, fast alternative to find with sane defaults.
+
+---
+
