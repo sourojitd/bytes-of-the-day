@@ -1910,3 +1910,14 @@ const city = user?.address?.city;
 
 ---
 
+## 2021-06-23 (Wednesday)
+
+### Code Snippet
+**Snippet (sql): Detect duplicates [174]**
+
+```sql
+SELECT col, COUNT(*) c FROM t GROUP BY col HAVING c>1;
+```
+
+---
+
