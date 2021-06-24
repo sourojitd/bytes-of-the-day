@@ -1267,3 +1267,10 @@
 
 ---
 
+## 2021-06-24 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (175)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
