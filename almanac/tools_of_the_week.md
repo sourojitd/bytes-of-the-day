@@ -1638,3 +1638,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2021-06-29 (Tuesday)
+
+### Tool of the Week
+**GitHub Copilot** — AI pair programmer.
+
+https://github.com/features/copilot
+
+---
+
