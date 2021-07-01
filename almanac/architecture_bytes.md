@@ -1274,3 +1274,10 @@
 
 ---
 
+## 2021-07-01 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (182)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
