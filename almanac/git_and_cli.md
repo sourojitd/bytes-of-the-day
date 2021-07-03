@@ -1274,3 +1274,10 @@
 
 ---
 
+## 2021-07-03 (Saturday)
+
+### Git & CLI
+**tldr (184)** — Community examples for common commands.
+
+---
+
