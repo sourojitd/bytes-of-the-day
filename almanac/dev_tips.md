@@ -1281,3 +1281,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-07-05 (Monday)
+
+### Dev Tips
+**Cache cautiously: define TTLs and invalidation rul (186)** — Cache cautiously: define TTLs and invalidation rules up front.
+
+---
+
