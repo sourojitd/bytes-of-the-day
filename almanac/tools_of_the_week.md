@@ -1647,3 +1647,12 @@ https://github.com/features/copilot
 
 ---
 
+## 2021-07-06 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2021)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
