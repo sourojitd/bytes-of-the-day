@@ -1281,3 +1281,10 @@
 
 ---
 
+## 2021-07-10 (Saturday)
+
+### Git & CLI
+**fzf (191)** — Fuzzy finder for files, history, and git objects.
+
+---
+
