@@ -1665,3 +1665,12 @@ https://htop.dev/
 
 ---
 
+## 2021-07-20 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2021)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
