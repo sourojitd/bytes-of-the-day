@@ -1295,3 +1295,10 @@
 
 ---
 
+## 2021-07-23 (Friday)
+
+### Tech History
+**SQLite (204)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
