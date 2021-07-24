@@ -1295,3 +1295,10 @@
 
 ---
 
+## 2021-07-24 (Saturday)
+
+### Git & CLI
+**eza (205)** — Modern replacement for ls with git info.
+
+---
+
