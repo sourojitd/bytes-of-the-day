@@ -1302,3 +1302,10 @@
 
 ---
 
+## 2021-07-31 (Saturday)
+
+### Git & CLI
+**git bisect (212)** — Binary-search to find the offending commit quickly.
+
+---
+
