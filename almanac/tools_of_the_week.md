@@ -1683,3 +1683,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2021-08-03 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2021)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
