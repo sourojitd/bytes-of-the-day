@@ -1309,3 +1309,10 @@
 
 ---
 
+## 2021-08-07 (Saturday)
+
+### Git & CLI
+**git rebase -i (219)** — Rewrite/squash recent commits to curate history.
+
+---
+
