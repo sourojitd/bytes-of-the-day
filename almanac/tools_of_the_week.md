@@ -1692,3 +1692,12 @@ https://curl.se/
 
 ---
 
+## 2021-08-10 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.22** — Server-side Apply GA; deprecated APIs removed.
+
+https://kubernetes.io/
+
+---
+
