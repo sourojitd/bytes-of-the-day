@@ -1701,3 +1701,12 @@ https://kubernetes.io/
 
 ---
 
+## 2021-08-17 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2021)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
