@@ -1323,3 +1323,10 @@
 
 ---
 
+## 2021-08-19 (Thursday)
+
+### Architecture Byte
+**CQRS  (231)** — CQRS — separate read/write models; combine with events for projections.
+
+---
+
