@@ -1323,3 +1323,10 @@
 
 ---
 
+## 2021-08-21 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (233)** — Blazing-fast code search; respects .gitignore.
+
+---
+
