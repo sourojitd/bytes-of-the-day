@@ -1330,3 +1330,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-08-23 (Monday)
+
+### Dev Tips
+**Rate-limit public endpoints; return 429 with retry (235)** — Rate-limit public endpoints; return 429 with retry hints.
+
+---
+
