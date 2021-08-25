@@ -2011,3 +2011,14 @@ Map<String,User> m = users.stream()
 
 ---
 
+## 2021-08-25 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Optional chaining [237]**
+
+```javascript
+const city = user?.address?.city;
+```
+
+---
+
