@@ -1351,3 +1351,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-09-13 (Monday)
+
+### Dev Tips
+**Add request IDs and propagate them across services (256)** — Add request IDs and propagate them across services.
+
+---
+
