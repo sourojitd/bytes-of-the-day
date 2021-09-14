@@ -1737,3 +1737,12 @@ https://curl.se/
 
 ---
 
+## 2021-09-14 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2021)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
