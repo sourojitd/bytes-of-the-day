@@ -1351,3 +1351,10 @@
 
 ---
 
+## 2021-09-16 (Thursday)
+
+### Architecture Byte
+**Strangler Fig  (259)** — Strangler Fig — incrementally replace legacy behind a façade.
+
+---
+
