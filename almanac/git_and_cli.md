@@ -1351,3 +1351,10 @@
 
 ---
 
+## 2021-09-18 (Saturday)
+
+### Git & CLI
+**fzf (261)** — Fuzzy finder for files, history, and git objects.
+
+---
+
