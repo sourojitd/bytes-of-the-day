@@ -1746,3 +1746,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2021-09-21 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2021)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
