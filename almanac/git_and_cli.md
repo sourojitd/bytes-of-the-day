@@ -1400,3 +1400,10 @@
 
 ---
 
+## 2021-11-06 (Saturday)
+
+### Git & CLI
+**fd (310)** — Modern, fast alternative to find with sane defaults.
+
+---
+
