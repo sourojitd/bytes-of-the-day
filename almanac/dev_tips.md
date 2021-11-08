@@ -1407,3 +1407,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-11-08 (Monday)
+
+### Dev Tips
+**Measure before optimizing; add metrics around late (312)** — Measure before optimizing; add metrics around latency and error rates.
+
+---
+
