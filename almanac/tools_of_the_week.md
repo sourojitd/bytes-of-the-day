@@ -1809,3 +1809,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2021-11-09 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2021)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
