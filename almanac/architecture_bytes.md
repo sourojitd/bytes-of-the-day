@@ -1407,3 +1407,10 @@
 
 ---
 
+## 2021-11-11 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (315)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
