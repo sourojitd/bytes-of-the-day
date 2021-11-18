@@ -1414,3 +1414,10 @@
 
 ---
 
+## 2021-11-18 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (322)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
