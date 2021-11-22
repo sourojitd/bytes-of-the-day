@@ -1421,3 +1421,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-11-22 (Monday)
+
+### Dev Tips
+**Cache cautiously: define TTLs and invalidation rul (326)** — Cache cautiously: define TTLs and invalidation rules up front.
+
+---
+
