@@ -1428,3 +1428,10 @@
 
 ---
 
+## 2021-12-04 (Saturday)
+
+### Git & CLI
+**jq (338)** — . filters JSON streams; great for pipelines.
+
+---
+
