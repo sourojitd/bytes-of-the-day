@@ -2179,3 +2179,14 @@ HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
 
 ---
 
+## 2021-12-08 (Wednesday)
+
+### Code Snippet
+**Snippet (go): Context timeouts [342]**
+
+```go
+ctx, cancel := context.WithTimeout(ctx, 3*time.Second)
+```
+
+---
+
