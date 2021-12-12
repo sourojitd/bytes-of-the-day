@@ -1435,3 +1435,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2021-12-12 (Sunday)
+
+### Mindset
+**Mindset: Own incidents; share learnings, not blame (346)** — Own incidents; share learnings, not blame.
+
+---
+
