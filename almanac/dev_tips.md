@@ -1442,3 +1442,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2021-12-13 (Monday)
+
+### Dev Tips
+**Document decisions (ADRs) to record trade-offs and (347)** — Document decisions (ADRs) to record trade-offs and context.
+
+---
+
