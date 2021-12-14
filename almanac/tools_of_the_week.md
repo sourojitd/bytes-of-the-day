@@ -1854,3 +1854,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2021-12-14 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2021)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
