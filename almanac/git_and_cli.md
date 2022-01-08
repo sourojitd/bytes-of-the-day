@@ -1463,3 +1463,10 @@
 
 ---
 
+## 2022-01-08 (Saturday)
+
+### Git & CLI
+**git rebase -i** — Rewrite/squash recent commits to curate history.
+
+---
+
