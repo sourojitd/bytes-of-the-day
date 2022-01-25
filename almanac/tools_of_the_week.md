@@ -1908,3 +1908,12 @@ https://git-scm.com/
 
 ---
 
+## 2022-01-25 (Tuesday)
+
+### Tool of the Week
+**VS Code 1.20** — Popular editor update; extensibility ecosystem.
+
+https://code.visualstudio.com/
+
+---
+
