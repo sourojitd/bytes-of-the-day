@@ -1484,3 +1484,10 @@
 
 ---
 
+## 2022-01-27 (Thursday)
+
+### Architecture Byte
+**Event Sourcing ** — Event Sourcing — persist domain events; rebuild state via replay.
+
+---
+
