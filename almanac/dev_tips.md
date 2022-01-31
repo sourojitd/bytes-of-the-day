@@ -1491,3 +1491,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-01-31 (Monday)
+
+### Dev Tips
+**Measure before optimizing; add metrics around late** — Measure before optimizing; add metrics around latency and error rates.
+
+---
+
