@@ -1491,3 +1491,10 @@
 
 ---
 
+## 2022-02-05 (Saturday)
+
+### Git & CLI
+**bat** — cat with syntax highlighting and line numbers.
+
+---
+
