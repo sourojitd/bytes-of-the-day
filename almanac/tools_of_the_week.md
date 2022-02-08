@@ -1926,3 +1926,12 @@ https://spring.io/projects/spring-boot
 
 ---
 
+## 2022-02-08 (Tuesday)
+
+### Tool of the Week
+**React 16.3** — Lifecycle updates and new Context API.
+
+https://react.dev/
+
+---
+
