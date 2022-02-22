@@ -1944,3 +1944,12 @@ https://pytorch.org/
 
 ---
 
+## 2022-02-22 (Tuesday)
+
+### Tool of the Week
+**React Hooks** — State & effects from function components.
+
+https://react.dev/
+
+---
+
