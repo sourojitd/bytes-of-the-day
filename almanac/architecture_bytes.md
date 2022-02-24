@@ -1512,3 +1512,10 @@
 
 ---
 
+## 2022-02-24 (Thursday)
+
+### Architecture Byte
+**Outbox Pattern ** — Outbox Pattern — reliably publish events alongside DB writes.
+
+---
+
