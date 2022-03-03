@@ -1519,3 +1519,10 @@
 
 ---
 
+## 2022-03-03 (Thursday)
+
+### Architecture Byte
+**Saga ** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
