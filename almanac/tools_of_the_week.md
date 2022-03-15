@@ -1971,3 +1971,12 @@ https://www.tensorflow.org/
 
 ---
 
+## 2022-03-15 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.16** — CRD improvements, deprecations.
+
+https://kubernetes.io/
+
+---
+
