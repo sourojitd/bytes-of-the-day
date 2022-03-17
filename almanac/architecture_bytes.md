@@ -1533,3 +1533,10 @@
 
 ---
 
+## 2022-03-17 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (076)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
