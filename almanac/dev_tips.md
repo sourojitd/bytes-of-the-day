@@ -1540,3 +1540,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-03-21 (Monday)
+
+### Dev Tips
+**Encrypt in transit & at rest; rotate credentials r** — Encrypt in transit & at rest; rotate credentials regularly.
+
+---
+
