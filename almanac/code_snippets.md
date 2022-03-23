@@ -2346,3 +2346,14 @@ time (your_cmd) 2>&1 | tail -n 3
 
 ---
 
+## 2022-03-23 (Wednesday)
+
+### Code Snippet
+**Snippet (python): Dictionary comprehension [082]**
+
+```python
+squares = {x: x*x for x in range(10)}
+```
+
+---
+
