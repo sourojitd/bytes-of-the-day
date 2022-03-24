@@ -1540,3 +1540,10 @@
 
 ---
 
+## 2022-03-24 (Thursday)
+
+### Architecture Byte
+**Bulkhead  (083)** — Bulkhead — isolate critical resources to contain blast radius.
+
+---
+
