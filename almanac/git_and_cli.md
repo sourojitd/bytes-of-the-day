@@ -1540,3 +1540,10 @@
 
 ---
 
+## 2022-03-26 (Saturday)
+
+### Git & CLI
+**git worktree (085)** — Multiple working trees per repo for parallel tasks.
+
+---
+
