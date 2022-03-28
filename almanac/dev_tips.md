@@ -1547,3 +1547,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-03-28 (Monday)
+
+### Dev Tips
+**Backpressure queues; never let producers overwhelm** — Backpressure queues; never let producers overwhelm consumers.
+
+---
+
