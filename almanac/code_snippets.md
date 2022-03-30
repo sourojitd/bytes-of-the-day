@@ -2357,3 +2357,15 @@ squares = {x: x*x for x in range(10)}
 
 ---
 
+## 2022-03-30 (Wednesday)
+
+### Code Snippet
+**Snippet (java): Streams to Map safely [089]**
+
+```java
+Map<String,User> m = users.stream()
+ .collect(Collectors.toMap(User::id,u->u,(a,b)->a,LinkedHashMap::new));
+```
+
+---
+
