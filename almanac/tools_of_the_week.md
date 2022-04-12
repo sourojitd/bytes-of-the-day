@@ -2007,3 +2007,12 @@ https://www.apple.com/
 
 ---
 
+## 2022-04-12 (Tuesday)
+
+### Tool of the Week
+**Git 2.30** — New features and performance in Git.
+
+https://git-scm.com/
+
+---
+
