@@ -1561,3 +1561,10 @@
 
 ---
 
+## 2022-04-14 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (104)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
