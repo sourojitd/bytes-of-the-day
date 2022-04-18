@@ -1568,3 +1568,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-04-18 (Monday)
+
+### Dev Tips
+**Prefer UTC everywhere; convert at the edges** — Prefer UTC everywhere; convert at the edges.
+
+---
+
