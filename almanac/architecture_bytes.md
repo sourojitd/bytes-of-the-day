@@ -1568,3 +1568,10 @@
 
 ---
 
+## 2022-04-21 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (111)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
