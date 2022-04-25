@@ -1575,3 +1575,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-04-25 (Monday)
+
+### Dev Tips
+**Add request IDs and propagate them across services** — Add request IDs and propagate them across services.
+
+---
+
