@@ -2025,3 +2025,12 @@ https://github.com/features/copilot
 
 ---
 
+## 2022-04-26 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.22** — Server-side Apply GA; deprecated APIs removed.
+
+https://kubernetes.io/
+
+---
+
