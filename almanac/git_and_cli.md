@@ -1575,3 +1575,10 @@
 
 ---
 
+## 2022-04-30 (Saturday)
+
+### Git & CLI
+**fzf (120)** — Fuzzy finder for files, history, and git objects.
+
+---
+
