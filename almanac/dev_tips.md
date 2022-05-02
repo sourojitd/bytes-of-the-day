@@ -1582,3 +1582,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-05-02 (Monday)
+
+### Dev Tips
+**Use canary or blue/green for safer rollouts** — Use canary or blue/green for safer rollouts.
+
+---
+
