@@ -1582,3 +1582,10 @@
 
 ---
 
+## 2022-05-07 (Saturday)
+
+### Git & CLI
+**jq (127)** — . filters JSON streams; great for pipelines.
+
+---
+
