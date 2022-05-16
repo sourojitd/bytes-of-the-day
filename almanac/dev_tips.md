@@ -1596,3 +1596,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-05-16 (Monday)
+
+### Dev Tips
+**Fail closed for authz; fail open for logging/analy** — Fail closed for authz; fail open for logging/analytics paths.
+
+---
+
