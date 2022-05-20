@@ -1596,3 +1596,10 @@
 
 ---
 
+## 2022-05-20 (Friday)
+
+### Tech History
+**SQLite (140)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
