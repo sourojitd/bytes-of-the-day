@@ -1596,3 +1596,10 @@
 
 ---
 
+## 2022-05-21 (Saturday)
+
+### Git & CLI
+**git bisect (141)** — Binary-search to find the offending commit quickly.
+
+---
+
