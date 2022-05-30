@@ -1610,3 +1610,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-05-30 (Monday)
+
+### Dev Tips
+**Validate input at edges; trust nothing from outsid (150)** — Validate input at edges; trust nothing from outside your process.
+
+---
+
