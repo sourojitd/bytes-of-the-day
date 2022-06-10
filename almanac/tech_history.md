@@ -1617,3 +1617,10 @@
 
 ---
 
+## 2022-06-10 (Friday)
+
+### Tech History
+**Git (2005) (161)** — Git (2005) — distributed VCS reshapes collaboration.
+
+---
+
