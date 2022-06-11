@@ -1617,3 +1617,10 @@
 
 ---
 
+## 2022-06-11 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (162)** — Blazing-fast code search; respects .gitignore.
+
+---
+
