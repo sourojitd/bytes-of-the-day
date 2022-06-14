@@ -2088,3 +2088,12 @@ https://htop.dev/
 
 ---
 
+## 2022-06-14 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2022)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
