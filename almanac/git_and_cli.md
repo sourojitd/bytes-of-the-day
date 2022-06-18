@@ -1624,3 +1624,10 @@
 
 ---
 
+## 2022-06-18 (Saturday)
+
+### Git & CLI
+**fd (169)** — Modern, fast alternative to find with sane defaults.
+
+---
+
