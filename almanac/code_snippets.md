@@ -2526,3 +2526,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2022-07-13 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [194]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
