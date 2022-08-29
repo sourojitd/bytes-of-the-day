@@ -1701,3 +1701,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-08-29 (Monday)
+
+### Dev Tips
+**Separate read/write stores (if needed) to scale in (241)** — Separate read/write stores (if needed) to scale independently.
+
+---
+
