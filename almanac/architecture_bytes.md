@@ -1701,3 +1701,10 @@
 
 ---
 
+## 2022-09-01 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (244)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
