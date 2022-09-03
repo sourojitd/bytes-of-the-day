@@ -1701,3 +1701,10 @@
 
 ---
 
+## 2022-09-03 (Saturday)
+
+### Git & CLI
+**bat (246)** — cat with syntax highlighting and line numbers.
+
+---
+
