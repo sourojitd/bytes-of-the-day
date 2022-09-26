@@ -1729,3 +1729,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-09-26 (Monday)
+
+### Dev Tips
+**Always cap concurrency; avoid unbounded thread poo (269)** — Always cap concurrency; avoid unbounded thread pools.
+
+---
+
