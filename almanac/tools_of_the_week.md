@@ -2223,3 +2223,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2022-09-27 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2022)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
