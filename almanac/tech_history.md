@@ -1729,3 +1729,10 @@
 
 ---
 
+## 2022-09-30 (Friday)
+
+### Tech History
+**LLVM/Clang (273)** — LLVM/Clang — toolchain modularity accelerates language ecosystems.
+
+---
+
