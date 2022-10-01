@@ -1729,3 +1729,10 @@
 
 ---
 
+## 2022-10-01 (Saturday)
+
+### Git & CLI
+**eza (274)** — Modern replacement for ls with git info.
+
+---
+
