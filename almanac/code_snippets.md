@@ -2660,3 +2660,14 @@ ctx, cancel := context.WithTimeout(ctx, 3*time.Second)
 
 ---
 
+## 2022-10-05 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Debounce [278]**
+
+```javascript
+const debounced = _.debounce(fn, 200);
+```
+
+---
+
