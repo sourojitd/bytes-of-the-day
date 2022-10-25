@@ -2259,3 +2259,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2022-10-25 (Tuesday)
+
+### Tool of the Week
+**LangChain** — Framework for LLM-powered apps.
+
+https://www.langchain.com/
+
+---
+
