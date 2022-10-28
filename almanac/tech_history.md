@@ -1757,3 +1757,10 @@
 
 ---
 
+## 2022-10-28 (Friday)
+
+### Tech History
+**Git (2005) (301)** — Git (2005) — distributed VCS reshapes collaboration.
+
+---
+
