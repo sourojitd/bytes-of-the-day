@@ -1757,3 +1757,10 @@
 
 ---
 
+## 2022-10-29 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (302)** — Blazing-fast code search; respects .gitignore.
+
+---
+
