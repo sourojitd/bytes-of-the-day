@@ -1764,3 +1764,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-10-31 (Monday)
+
+### Dev Tips
+**Use feature flags to decouple deploy from release (304)** — Use feature flags to decouple deploy from release.
+
+---
+
