@@ -2268,3 +2268,12 @@ https://www.langchain.com/
 
 ---
 
+## 2022-11-01 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2022)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
