@@ -1764,3 +1764,10 @@
 
 ---
 
+## 2022-11-05 (Saturday)
+
+### Git & CLI
+**fd (309)** — Modern, fast alternative to find with sane defaults.
+
+---
+
