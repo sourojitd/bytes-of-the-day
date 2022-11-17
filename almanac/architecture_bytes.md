@@ -1778,3 +1778,10 @@
 
 ---
 
+## 2022-11-17 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (321)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
