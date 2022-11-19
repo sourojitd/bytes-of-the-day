@@ -1778,3 +1778,10 @@
 
 ---
 
+## 2022-11-19 (Saturday)
+
+### Git & CLI
+**tldr (323)** — Community examples for common commands.
+
+---
+
