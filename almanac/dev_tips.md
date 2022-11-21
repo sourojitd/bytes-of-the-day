@@ -1785,3 +1785,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2022-11-21 (Monday)
+
+### Dev Tips
+**Cache cautiously: define TTLs and invalidation rul (325)** — Cache cautiously: define TTLs and invalidation rules up front.
+
+---
+
