@@ -2313,3 +2313,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2022-12-06 (Tuesday)
+
+### Tool of the Week
+**ChatGPT** — Conversational assistant powered by GPT-3.5.
+
+https://chat.openai.com/
+
+---
+
