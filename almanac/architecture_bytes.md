@@ -1799,3 +1799,10 @@
 
 ---
 
+## 2022-12-08 (Thursday)
+
+### Architecture Byte
+**Saga  (342)** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
