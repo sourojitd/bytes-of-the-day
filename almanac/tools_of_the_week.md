@@ -2322,3 +2322,12 @@ https://chat.openai.com/
 
 ---
 
+## 2022-12-13 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2022)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
