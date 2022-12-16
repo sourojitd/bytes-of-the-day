@@ -1806,3 +1806,10 @@
 
 ---
 
+## 2022-12-16 (Friday)
+
+### Tech History
+**SQLite (350)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
