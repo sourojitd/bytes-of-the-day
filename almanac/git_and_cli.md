@@ -1820,3 +1820,10 @@
 
 ---
 
+## 2022-12-31 (Saturday)
+
+### Git & CLI
+**git worktree (365)** — Multiple working trees per repo for parallel tasks.
+
+---
+
