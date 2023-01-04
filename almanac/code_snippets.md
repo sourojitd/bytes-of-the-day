@@ -2805,3 +2805,14 @@ squares = {x: x*x for x in range(10)}
 
 ---
 
+## 2023-01-04 (Wednesday)
+
+### Code Snippet
+**Snippet (bash): Find slowest lines**
+
+```bash
+time (your_cmd) 2>&1 | tail -n 3
+```
+
+---
+
