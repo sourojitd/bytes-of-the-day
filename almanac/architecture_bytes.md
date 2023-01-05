@@ -1827,3 +1827,10 @@
 
 ---
 
+## 2023-01-05 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker ** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
