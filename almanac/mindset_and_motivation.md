@@ -1848,3 +1848,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2023-01-29 (Sunday)
+
+### Mindset
+**Mindset: Ask better questions; debugging starts with a clear hypothesis** — Ask better questions; debugging starts with a clear hypothesis.
+
+---
+
