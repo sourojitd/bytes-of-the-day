@@ -2403,3 +2403,12 @@ https://react.dev/
 
 ---
 
+## 2023-02-14 (Tuesday)
+
+### Tool of the Week
+**PyTorch 1.0** — First stable release for research & prod.
+
+https://pytorch.org/
+
+---
+
