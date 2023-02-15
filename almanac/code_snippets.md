@@ -2872,3 +2872,15 @@ for i in {1..5}; do cmd && break; sleep $((2**i)); done
 
 ---
 
+## 2023-02-15 (Wednesday)
+
+### Code Snippet
+**Snippet (python): Walrus operator**
+
+```python
+if (n := len(items)) > 100:
+    print(n)
+```
+
+---
+
