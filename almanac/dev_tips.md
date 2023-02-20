@@ -1876,3 +1876,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-02-20 (Monday)
+
+### Dev Tips
+**Guard critical paths with circuit breakers and bul** — Guard critical paths with circuit breakers and bulkheads.
+
+---
+
