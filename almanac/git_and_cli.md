@@ -1876,3 +1876,10 @@
 
 ---
 
+## 2023-02-25 (Saturday)
+
+### Git & CLI
+**fzf** — Fuzzy finder for files, history, and git objects.
+
+---
+
