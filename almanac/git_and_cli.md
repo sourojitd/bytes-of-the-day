@@ -1883,3 +1883,10 @@
 
 ---
 
+## 2023-03-04 (Saturday)
+
+### Git & CLI
+**jq** — . filters JSON streams; great for pipelines.
+
+---
+
