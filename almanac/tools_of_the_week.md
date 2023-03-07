@@ -2430,3 +2430,12 @@ https://www.rust-lang.org/
 
 ---
 
+## 2023-03-07 (Tuesday)
+
+### Tool of the Week
+**TensorFlow 2.0** — Eager execution by default; Keras-centric.
+
+https://www.tensorflow.org/
+
+---
+
