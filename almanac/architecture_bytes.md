@@ -1890,3 +1890,10 @@
 
 ---
 
+## 2023-03-09 (Thursday)
+
+### Architecture Byte
+**Cache Aside ** — Cache Aside — app manages cache population and invalidation.
+
+---
+
