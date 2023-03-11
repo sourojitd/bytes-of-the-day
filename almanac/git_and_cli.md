@@ -1890,3 +1890,10 @@
 
 ---
 
+## 2023-03-11 (Saturday)
+
+### Git & CLI
+**eza** — Modern replacement for ls with git info.
+
+---
+
