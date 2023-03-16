@@ -1897,3 +1897,10 @@
 
 ---
 
+## 2023-03-16 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (075)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
