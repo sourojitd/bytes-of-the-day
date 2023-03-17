@@ -1897,3 +1897,10 @@
 
 ---
 
+## 2023-03-17 (Friday)
+
+### Tech History
+**UNIX philosophy (076)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
