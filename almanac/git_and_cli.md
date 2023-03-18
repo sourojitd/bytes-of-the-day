@@ -1897,3 +1897,10 @@
 
 ---
 
+## 2023-03-18 (Saturday)
+
+### Git & CLI
+**git bisect (077)** — Binary-search to find the offending commit quickly.
+
+---
+
