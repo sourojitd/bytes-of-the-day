@@ -1904,3 +1904,10 @@
 
 ---
 
+## 2023-03-25 (Saturday)
+
+### Git & CLI
+**git rebase -i (084)** — Rewrite/squash recent commits to curate history.
+
+---
+
