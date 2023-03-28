@@ -2457,3 +2457,12 @@ https://github.com/features/actions
 
 ---
 
+## 2023-03-28 (Tuesday)
+
+### Tool of the Week
+**Deno 1.0** — Secure TS/JS runtime with modern defaults.
+
+https://deno.land/
+
+---
+
