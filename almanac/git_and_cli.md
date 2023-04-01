@@ -1911,3 +1911,10 @@
 
 ---
 
+## 2023-04-01 (Saturday)
+
+### Git & CLI
+**git worktree (091)** — Multiple working trees per repo for parallel tasks.
+
+---
+
