@@ -2951,3 +2951,14 @@ Map<String,User> m = users.stream()
 
 ---
 
+## 2023-04-05 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Optional chaining [095]**
+
+```javascript
+const city = user?.address?.city;
+```
+
+---
+
