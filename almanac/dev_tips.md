@@ -1925,3 +1925,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-04-10 (Monday)
+
+### Dev Tips
+**Separate read/write stores (if needed) to scale in** — Separate read/write stores (if needed) to scale independently.
+
+---
+
