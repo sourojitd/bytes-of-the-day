@@ -2484,3 +2484,12 @@ https://git-scm.com/
 
 ---
 
+## 2023-04-18 (Tuesday)
+
+### Tool of the Week
+**GitHub Copilot** — AI pair programmer.
+
+https://github.com/features/copilot
+
+---
+
