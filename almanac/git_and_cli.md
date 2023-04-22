@@ -1932,3 +1932,10 @@
 
 ---
 
+## 2023-04-22 (Saturday)
+
+### Git & CLI
+**bat (112)** — cat with syntax highlighting and line numbers.
+
+---
+
