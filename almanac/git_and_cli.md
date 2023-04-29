@@ -1939,3 +1939,10 @@
 
 ---
 
+## 2023-04-29 (Saturday)
+
+### Git & CLI
+**tldr (119)** — Community examples for common commands.
+
+---
+
