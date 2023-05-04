@@ -1946,3 +1946,10 @@
 
 ---
 
+## 2023-05-04 (Thursday)
+
+### Architecture Byte
+**Outbox Pattern  (124)** — Outbox Pattern — reliably publish events alongside DB writes.
+
+---
+
