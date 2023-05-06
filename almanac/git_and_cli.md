@@ -1946,3 +1946,10 @@
 
 ---
 
+## 2023-05-06 (Saturday)
+
+### Git & CLI
+**fzf (126)** — Fuzzy finder for files, history, and git objects.
+
+---
+
