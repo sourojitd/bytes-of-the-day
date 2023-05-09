@@ -2511,3 +2511,12 @@ https://react.dev/
 
 ---
 
+## 2023-05-09 (Tuesday)
+
+### Tool of the Week
+**LangChain** — Framework for LLM-powered apps.
+
+https://www.langchain.com/
+
+---
+
