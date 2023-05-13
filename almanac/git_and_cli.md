@@ -1953,3 +1953,10 @@
 
 ---
 
+## 2023-05-13 (Saturday)
+
+### Git & CLI
+**jq (133)** — . filters JSON streams; great for pipelines.
+
+---
+
