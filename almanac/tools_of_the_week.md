@@ -2520,3 +2520,12 @@ https://www.langchain.com/
 
 ---
 
+## 2023-05-16 (Tuesday)
+
+### Tool of the Week
+**ChatGPT** — Conversational assistant powered by GPT-3.5.
+
+https://chat.openai.com/
+
+---
+
