@@ -1960,3 +1960,10 @@
 
 ---
 
+## 2023-05-19 (Friday)
+
+### Tech History
+**SQLite (139)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
