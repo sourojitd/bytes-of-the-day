@@ -1960,3 +1960,10 @@
 
 ---
 
+## 2023-05-20 (Saturday)
+
+### Git & CLI
+**eza (140)** — Modern replacement for ls with git info.
+
+---
+
