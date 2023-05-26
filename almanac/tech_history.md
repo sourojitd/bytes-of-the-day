@@ -1967,3 +1967,10 @@
 
 ---
 
+## 2023-05-26 (Friday)
+
+### Tech History
+**UNIX philosophy (146)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
