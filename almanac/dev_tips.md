@@ -1974,3 +1974,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-05-29 (Monday)
+
+### Dev Tips
+**Validate input at edges; trust nothing from outsid (149)** — Validate input at edges; trust nothing from outside your process.
+
+---
+
