@@ -2538,3 +2538,12 @@ https://openai.com/
 
 ---
 
+## 2023-05-30 (Tuesday)
+
+### Tool of the Week
+**curl** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
