@@ -1974,3 +1974,10 @@
 
 ---
 
+## 2023-06-03 (Saturday)
+
+### Git & CLI
+**git rebase -i (154)** — Rewrite/squash recent commits to curate history.
+
+---
+
