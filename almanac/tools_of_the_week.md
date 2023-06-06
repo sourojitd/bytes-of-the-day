@@ -2547,3 +2547,12 @@ https://curl.se/
 
 ---
 
+## 2023-06-06 (Tuesday)
+
+### Tool of the Week
+**jq** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
