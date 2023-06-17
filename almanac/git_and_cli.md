@@ -1988,3 +1988,10 @@
 
 ---
 
+## 2023-06-17 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (168)** — Blazing-fast code search; respects .gitignore.
+
+---
+
