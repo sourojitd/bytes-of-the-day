@@ -1995,3 +1995,10 @@
 
 ---
 
+## 2023-06-22 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (173)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
