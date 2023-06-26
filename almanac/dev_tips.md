@@ -2002,3 +2002,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-06-26 (Monday)
+
+### Dev Tips
+**Define SLIs/SLOs; alert on user-impacting symptoms (177)** — Define SLIs/SLOs; alert on user-impacting symptoms, not just infrastructure.
+
+---
+
