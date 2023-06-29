@@ -2002,3 +2002,10 @@
 
 ---
 
+## 2023-06-29 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (180)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
