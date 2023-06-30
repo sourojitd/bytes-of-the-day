@@ -2002,3 +2002,10 @@
 
 ---
 
+## 2023-06-30 (Friday)
+
+### Tech History
+**Let's Encrypt (2015) (181)** — Let's Encrypt (2015) — free automated TLS changes the web.
+
+---
+
