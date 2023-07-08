@@ -2009,3 +2009,10 @@
 
 ---
 
+## 2023-07-08 (Saturday)
+
+### Git & CLI
+**tldr (189)** — Community examples for common commands.
+
+---
+
