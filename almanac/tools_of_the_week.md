@@ -2592,3 +2592,12 @@ https://curl.se/
 
 ---
 
+## 2023-07-11 (Tuesday)
+
+### Tool of the Week
+**Claude 2** — Anthropic assistant with large context.
+
+https://www.anthropic.com/
+
+---
+
