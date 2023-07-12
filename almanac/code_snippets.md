@@ -3108,3 +3108,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2023-07-12 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [193]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
