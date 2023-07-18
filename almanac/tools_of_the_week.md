@@ -2601,3 +2601,12 @@ https://www.anthropic.com/
 
 ---
 
+## 2023-07-18 (Tuesday)
+
+### Tool of the Week
+**Llama 2** — Meta open-weight LLM family.
+
+https://ai.meta.com/llama/
+
+---
+
