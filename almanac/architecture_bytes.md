@@ -2023,3 +2023,10 @@
 
 ---
 
+## 2023-07-20 (Thursday)
+
+### Architecture Byte
+**Saga  (201)** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
