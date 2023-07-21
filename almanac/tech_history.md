@@ -2023,3 +2023,10 @@
 
 ---
 
+## 2023-07-21 (Friday)
+
+### Tech History
+**LLVM/Clang (202)** — LLVM/Clang — toolchain modularity accelerates language ecosystems.
+
+---
+
