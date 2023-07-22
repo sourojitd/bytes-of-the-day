@@ -2023,3 +2023,10 @@
 
 ---
 
+## 2023-07-22 (Saturday)
+
+### Git & CLI
+**jq (203)** — . filters JSON streams; great for pipelines.
+
+---
+
