@@ -2610,3 +2610,12 @@ https://ai.meta.com/llama/
 
 ---
 
+## 2023-07-25 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2023)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
