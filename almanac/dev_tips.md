@@ -2037,3 +2037,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-07-31 (Monday)
+
+### Dev Tips
+**Prefer batch writes for hot paths; reduce chattine (212)** — Prefer batch writes for hot paths; reduce chattiness.
+
+---
+
