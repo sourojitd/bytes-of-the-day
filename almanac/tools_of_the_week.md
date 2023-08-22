@@ -2646,3 +2646,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2023-08-22 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2023)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
