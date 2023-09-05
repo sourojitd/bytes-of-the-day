@@ -2664,3 +2664,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2023-09-05 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2023)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
