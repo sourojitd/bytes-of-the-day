@@ -2093,3 +2093,10 @@
 
 ---
 
+## 2023-09-30 (Saturday)
+
+### Git & CLI
+**jq (273)** — . filters JSON streams; great for pipelines.
+
+---
+
