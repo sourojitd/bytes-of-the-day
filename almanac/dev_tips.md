@@ -2100,3 +2100,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2023-10-02 (Monday)
+
+### Dev Tips
+**Fail closed for authz; fail open for logging/analy (275)** — Fail closed for authz; fail open for logging/analytics paths.
+
+---
+
