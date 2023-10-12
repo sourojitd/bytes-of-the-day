@@ -2107,3 +2107,10 @@
 
 ---
 
+## 2023-10-12 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (285)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
