@@ -2718,3 +2718,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2023-10-17 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2023)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
