@@ -2121,3 +2121,10 @@
 
 ---
 
+## 2023-10-28 (Saturday)
+
+### Git & CLI
+**git worktree (301)** — Multiple working trees per repo for parallel tasks.
+
+---
+
