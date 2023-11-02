@@ -2128,3 +2128,10 @@
 
 ---
 
+## 2023-11-02 (Thursday)
+
+### Architecture Byte
+**Event Sourcing  (306)** — Event Sourcing — persist domain events; rebuild state via replay.
+
+---
+
