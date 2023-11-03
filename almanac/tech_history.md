@@ -2128,3 +2128,10 @@
 
 ---
 
+## 2023-11-03 (Friday)
+
+### Tech History
+**Docker (2013) (307)** — Docker (2013) — containers mainstream reproducible environments.
+
+---
+
