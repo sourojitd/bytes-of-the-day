@@ -2163,3 +2163,10 @@
 
 ---
 
+## 2023-12-07 (Thursday)
+
+### Architecture Byte
+**Saga  (341)** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
