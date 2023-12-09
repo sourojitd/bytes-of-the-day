@@ -2163,3 +2163,10 @@
 
 ---
 
+## 2023-12-09 (Saturday)
+
+### Git & CLI
+**jq (343)** — . filters JSON streams; great for pipelines.
+
+---
+
