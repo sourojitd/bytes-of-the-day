@@ -2790,3 +2790,12 @@ https://htop.dev/
 
 ---
 
+## 2023-12-12 (Tuesday)
+
+### Tool of the Week
+**jq (recap 2023)** — Lightweight JSON processor for the CLI.
+
+https://jqlang.github.io/jq/
+
+---
+
