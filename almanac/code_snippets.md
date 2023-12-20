@@ -3365,3 +3365,14 @@ const debounced = _.debounce(fn, 200);
 
 ---
 
+## 2023-12-20 (Wednesday)
+
+### Code Snippet
+**Snippet (bash): Find slowest lines [354]**
+
+```bash
+time (your_cmd) 2>&1 | tail -n 3
+```
+
+---
+
