@@ -2184,3 +2184,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2023-12-31 (Sunday)
+
+### Mindset
+**Mindset: Refactor without fear; delete code to gain clarity (365)** — Refactor without fear; delete code to gain clarity.
+
+---
+
