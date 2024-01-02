@@ -2817,3 +2817,12 @@ https://curl.se/
 
 ---
 
+## 2024-01-02 (Tuesday)
+
+### Tool of the Week
+**HikariCP 2.7.0** — Fast JDBC connection pool for Java services.
+
+https://github.com/brettwooldridge/HikariCP
+
+---
+
