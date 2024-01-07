@@ -2191,3 +2191,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2024-01-07 (Sunday)
+
+### Mindset
+**Mindset: Small daily wins compound more than rare heroics** — Small daily wins compound more than rare heroics.
+
+---
+
