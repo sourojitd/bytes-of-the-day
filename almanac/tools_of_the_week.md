@@ -2826,3 +2826,12 @@ https://github.com/brettwooldridge/HikariCP
 
 ---
 
+## 2024-01-09 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.9** — K8s release with features and API updates.
+
+https://kubernetes.io/
+
+---
+
