@@ -2212,3 +2212,10 @@
 
 ---
 
+## 2024-01-27 (Saturday)
+
+### Git & CLI
+**rg (ripgrep)** — Blazing-fast code search; respects .gitignore.
+
+---
+
