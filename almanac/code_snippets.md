@@ -3432,3 +3432,14 @@ const city = user?.address?.city;
 
 ---
 
+## 2024-01-31 (Wednesday)
+
+### Code Snippet
+**Snippet (sql): Detect duplicates**
+
+```sql
+SELECT col, COUNT(*) c FROM t GROUP BY col HAVING c>1;
+```
+
+---
+
