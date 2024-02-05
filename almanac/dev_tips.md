@@ -2226,3 +2226,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2024-02-05 (Monday)
+
+### Dev Tips
+**Define SLIs/SLOs; alert on user-impacting symptoms** — Define SLIs/SLOs; alert on user-impacting symptoms, not just infrastructure.
+
+---
+
