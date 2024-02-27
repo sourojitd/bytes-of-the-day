@@ -2889,3 +2889,12 @@ https://react.dev/
 
 ---
 
+## 2024-02-27 (Tuesday)
+
+### Tool of the Week
+**Rust 1.36** — Rust improvements; async/await on path.
+
+https://www.rust-lang.org/
+
+---
+
