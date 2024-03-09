@@ -2254,3 +2254,10 @@
 
 ---
 
+## 2024-03-09 (Saturday)
+
+### Git & CLI
+**eza** — Modern replacement for ls with git info.
+
+---
+
