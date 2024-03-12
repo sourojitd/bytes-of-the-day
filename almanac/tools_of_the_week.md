@@ -2907,3 +2907,12 @@ https://www.tensorflow.org/
 
 ---
 
+## 2024-03-12 (Tuesday)
+
+### Tool of the Week
+**Kubernetes 1.16** — CRD improvements, deprecations.
+
+https://kubernetes.io/
+
+---
+
