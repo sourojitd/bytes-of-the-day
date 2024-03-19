@@ -2916,3 +2916,12 @@ https://kubernetes.io/
 
 ---
 
+## 2024-03-19 (Tuesday)
+
+### Tool of the Week
+**GitHub Actions GA** — CI/CD platform built into GitHub.
+
+https://github.com/features/actions
+
+---
+
