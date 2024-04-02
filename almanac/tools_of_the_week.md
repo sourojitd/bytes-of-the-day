@@ -2934,3 +2934,12 @@ https://deno.land/
 
 ---
 
+## 2024-04-02 (Tuesday)
+
+### Tool of the Week
+**Apple M1 Macs** — First Apple Silicon; performance per watt.
+
+https://www.apple.com/
+
+---
+
