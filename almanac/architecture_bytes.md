@@ -2282,3 +2282,10 @@
 
 ---
 
+## 2024-04-04 (Thursday)
+
+### Architecture Byte
+**Event Sourcing  (095)** — Event Sourcing — persist domain events; rebuild state via replay.
+
+---
+
