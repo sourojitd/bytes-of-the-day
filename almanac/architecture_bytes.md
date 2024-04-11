@@ -2289,3 +2289,10 @@
 
 ---
 
+## 2024-04-11 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (102)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
