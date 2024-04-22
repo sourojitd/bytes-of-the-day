@@ -2303,3 +2303,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2024-04-22 (Monday)
+
+### Dev Tips
+**Add request IDs and propagate them across services** — Add request IDs and propagate them across services.
+
+---
+
