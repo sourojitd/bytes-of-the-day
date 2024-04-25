@@ -2303,3 +2303,10 @@
 
 ---
 
+## 2024-04-25 (Thursday)
+
+### Architecture Byte
+**Strangler Fig  (116)** — Strangler Fig — incrementally replace legacy behind a façade.
+
+---
+
