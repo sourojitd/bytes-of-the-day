@@ -2970,3 +2970,12 @@ https://kubernetes.io/
 
 ---
 
+## 2024-04-30 (Tuesday)
+
+### Tool of the Week
+**React 18** — Concurrent rendering, Suspense improvements.
+
+https://react.dev/
+
+---
+
