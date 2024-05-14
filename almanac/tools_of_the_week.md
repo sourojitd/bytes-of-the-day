@@ -2988,3 +2988,12 @@ https://www.langchain.com/
 
 ---
 
+## 2024-05-14 (Tuesday)
+
+### Tool of the Week
+**ChatGPT** — Conversational assistant powered by GPT-3.5.
+
+https://chat.openai.com/
+
+---
+
