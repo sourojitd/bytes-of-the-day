@@ -2997,3 +2997,12 @@ https://chat.openai.com/
 
 ---
 
+## 2024-05-21 (Tuesday)
+
+### Tool of the Week
+**OpenAI GPT-4** — Large multimodal model; better reasoning.
+
+https://openai.com/
+
+---
+
