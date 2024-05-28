@@ -3006,3 +3006,12 @@ https://openai.com/
 
 ---
 
+## 2024-05-28 (Tuesday)
+
+### Tool of the Week
+**Claude 2** — Anthropic assistant with large context.
+
+https://www.anthropic.com/
+
+---
+
