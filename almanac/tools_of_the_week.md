@@ -3015,3 +3015,12 @@ https://www.anthropic.com/
 
 ---
 
+## 2024-06-04 (Tuesday)
+
+### Tool of the Week
+**Llama 2** — Meta open-weight LLM family.
+
+https://ai.meta.com/llama/
+
+---
+
