@@ -3024,3 +3024,12 @@ https://ai.meta.com/llama/
 
 ---
 
+## 2024-06-11 (Tuesday)
+
+### Tool of the Week
+**Gemini 1.5** — Google multimodal model; long context.
+
+https://deepmind.google/
+
+---
+
