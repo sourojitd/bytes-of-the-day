@@ -3033,3 +3033,12 @@ https://deepmind.google/
 
 ---
 
+## 2024-06-18 (Tuesday)
+
+### Tool of the Week
+**curl** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
