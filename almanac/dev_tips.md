@@ -2366,3 +2366,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2024-06-24 (Monday)
+
+### Dev Tips
+**Define SLIs/SLOs; alert on user-impacting symptoms (176)** — Define SLIs/SLOs; alert on user-impacting symptoms, not just infrastructure.
+
+---
+
