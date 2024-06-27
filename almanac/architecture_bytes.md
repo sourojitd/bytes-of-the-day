@@ -2366,3 +2366,10 @@
 
 ---
 
+## 2024-06-27 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (179)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
