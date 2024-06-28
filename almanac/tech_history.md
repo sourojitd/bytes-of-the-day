@@ -2366,3 +2366,10 @@
 
 ---
 
+## 2024-06-28 (Friday)
+
+### Tech History
+**Let's Encrypt (2015) (180)** — Let's Encrypt (2015) — free automated TLS changes the web.
+
+---
+
