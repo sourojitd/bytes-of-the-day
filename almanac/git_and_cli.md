@@ -2373,3 +2373,10 @@
 
 ---
 
+## 2024-07-06 (Saturday)
+
+### Git & CLI
+**tldr (188)** — Community examples for common commands.
+
+---
+
