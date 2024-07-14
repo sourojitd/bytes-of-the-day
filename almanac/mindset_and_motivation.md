@@ -2380,3 +2380,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2024-07-14 (Sunday)
+
+### Mindset
+**Mindset: Keep PRs small; reviews become faster and kinder (196)** — Keep PRs small; reviews become faster and kinder.
+
+---
+
