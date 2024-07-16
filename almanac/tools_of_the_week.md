@@ -3069,3 +3069,12 @@ https://github.com/junegunn/fzf
 
 ---
 
+## 2024-07-16 (Tuesday)
+
+### Tool of the Week
+**htop** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
