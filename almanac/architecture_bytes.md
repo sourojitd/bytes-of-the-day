@@ -2387,3 +2387,10 @@
 
 ---
 
+## 2024-07-18 (Thursday)
+
+### Architecture Byte
+**Saga  (200)** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
