@@ -2387,3 +2387,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2024-07-21 (Sunday)
+
+### Mindset
+**Mindset: Prefer clarity over cleverness; future maintainers are humans (203)** — Prefer clarity over cleverness; future maintainers are humans.
+
+---
+
