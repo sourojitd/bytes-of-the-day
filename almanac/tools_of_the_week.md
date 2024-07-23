@@ -3078,3 +3078,12 @@ https://htop.dev/
 
 ---
 
+## 2024-07-23 (Tuesday)
+
+### Tool of the Week
+**curl (recap 2024)** — Versatile HTTP client for scripts & debugging.
+
+https://curl.se/
+
+---
+
