@@ -2394,3 +2394,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2024-07-28 (Sunday)
+
+### Mindset
+**Mindset: Own incidents; share learnings, not blame (210)** — Own incidents; share learnings, not blame.
+
+---
+
