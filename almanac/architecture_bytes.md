@@ -2401,3 +2401,10 @@
 
 ---
 
+## 2024-08-01 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (214)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
