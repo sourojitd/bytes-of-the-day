@@ -2401,3 +2401,10 @@
 
 ---
 
+## 2024-08-02 (Friday)
+
+### Tech History
+**UNIX philosophy (215)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
