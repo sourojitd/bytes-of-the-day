@@ -3096,3 +3096,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2024-08-06 (Tuesday)
+
+### Tool of the Week
+**htop (recap 2024)** — Interactive process viewer.
+
+https://htop.dev/
+
+---
+
