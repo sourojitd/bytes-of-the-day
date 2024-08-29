@@ -2429,3 +2429,10 @@
 
 ---
 
+## 2024-08-29 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (242)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
