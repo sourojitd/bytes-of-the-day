@@ -2436,3 +2436,10 @@
 
 ---
 
+## 2024-09-07 (Saturday)
+
+### Git & CLI
+**bat (251)** — cat with syntax highlighting and line numbers.
+
+---
+
