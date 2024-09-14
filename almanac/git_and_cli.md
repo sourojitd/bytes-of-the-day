@@ -2443,3 +2443,10 @@
 
 ---
 
+## 2024-09-14 (Saturday)
+
+### Git & CLI
+**tldr (258)** — Community examples for common commands.
+
+---
+
