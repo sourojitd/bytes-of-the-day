@@ -3150,3 +3150,12 @@ https://htop.dev/
 
 ---
 
+## 2024-09-17 (Tuesday)
+
+### Tool of the Week
+**OpenAI o1** — Reasoning-focused model family.
+
+https://openai.com/
+
+---
+
