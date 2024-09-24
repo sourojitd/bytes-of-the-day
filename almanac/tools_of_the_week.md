@@ -3159,3 +3159,12 @@ https://openai.com/
 
 ---
 
+## 2024-09-24 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2024)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
