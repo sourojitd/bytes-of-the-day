@@ -2464,3 +2464,10 @@
 
 ---
 
+## 2024-10-04 (Friday)
+
+### Tech History
+**SQLite (278)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
