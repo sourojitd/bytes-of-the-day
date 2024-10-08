@@ -3177,3 +3177,12 @@ https://curl.se/
 
 ---
 
+## 2024-10-08 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2024)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
