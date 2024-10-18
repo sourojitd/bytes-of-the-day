@@ -2478,3 +2478,10 @@
 
 ---
 
+## 2024-10-18 (Friday)
+
+### Tech History
+**Birth of the Web (1991) (292)** — Birth of the Web (1991) — CERN hosts first website by Tim Berners‑Lee.
+
+---
+
