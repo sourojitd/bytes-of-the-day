@@ -2478,3 +2478,10 @@
 
 ---
 
+## 2024-10-19 (Saturday)
+
+### Git & CLI
+**git rebase -i (293)** — Rewrite/squash recent commits to curate history.
+
+---
+
