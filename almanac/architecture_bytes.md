@@ -2485,3 +2485,10 @@
 
 ---
 
+## 2024-10-24 (Thursday)
+
+### Architecture Byte
+**CQRS  (298)** — CQRS — separate read/write models; combine with events for projections.
+
+---
+
