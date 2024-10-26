@@ -2485,3 +2485,10 @@
 
 ---
 
+## 2024-10-26 (Saturday)
+
+### Git & CLI
+**git worktree (300)** — Multiple working trees per repo for parallel tasks.
+
+---
+
