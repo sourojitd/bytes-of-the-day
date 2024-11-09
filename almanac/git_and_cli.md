@@ -2499,3 +2499,10 @@
 
 ---
 
+## 2024-11-09 (Saturday)
+
+### Git & CLI
+**fd (314)** — Modern, fast alternative to find with sane defaults.
+
+---
+
