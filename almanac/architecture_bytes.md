@@ -2506,3 +2506,10 @@
 
 ---
 
+## 2024-11-14 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (319)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
