@@ -2520,3 +2520,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2024-11-25 (Monday)
+
+### Dev Tips
+**Guard critical paths with circuit breakers and bul (330)** — Guard critical paths with circuit breakers and bulkheads.
+
+---
+
