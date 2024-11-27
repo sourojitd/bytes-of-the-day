@@ -3914,3 +3914,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2024-11-27 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [332]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
