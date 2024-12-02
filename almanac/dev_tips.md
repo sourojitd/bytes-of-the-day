@@ -2527,3 +2527,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2024-12-02 (Monday)
+
+### Dev Tips
+**Design DTOs immutable; avoid shared mutable state (337)** — Design DTOs immutable; avoid shared mutable state.
+
+---
+
