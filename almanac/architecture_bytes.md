@@ -2527,3 +2527,10 @@
 
 ---
 
+## 2024-12-05 (Thursday)
+
+### Architecture Byte
+**Saga  (340)** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
