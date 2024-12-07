@@ -2527,3 +2527,10 @@
 
 ---
 
+## 2024-12-07 (Saturday)
+
+### Git & CLI
+**jq (342)** — . filters JSON streams; great for pipelines.
+
+---
+
