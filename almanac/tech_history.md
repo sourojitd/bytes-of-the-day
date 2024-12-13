@@ -2534,3 +2534,10 @@
 
 ---
 
+## 2024-12-13 (Friday)
+
+### Tech History
+**SQLite (348)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
