@@ -2541,3 +2541,10 @@
 
 ---
 
+## 2024-12-19 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (354)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
