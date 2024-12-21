@@ -2541,3 +2541,10 @@
 
 ---
 
+## 2024-12-21 (Saturday)
+
+### Git & CLI
+**git bisect (356)** — Binary-search to find the offending commit quickly.
+
+---
+
