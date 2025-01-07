@@ -3294,3 +3294,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2025-01-07 (Tuesday)
+
+### Tool of the Week
+**HikariCP 2.7.0** — Fast JDBC connection pool for Java services.
+
+https://github.com/brettwooldridge/HikariCP
+
+---
+
