@@ -2562,3 +2562,10 @@
 
 ---
 
+## 2025-01-11 (Saturday)
+
+### Git & CLI
+**git rebase -i** — Rewrite/squash recent commits to curate history.
+
+---
+
