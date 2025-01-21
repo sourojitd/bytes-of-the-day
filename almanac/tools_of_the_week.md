@@ -3312,3 +3312,12 @@ https://kubernetes.io/
 
 ---
 
+## 2025-01-21 (Tuesday)
+
+### Tool of the Week
+**Git 2.16** — Performance and feature improvements in Git.
+
+https://git-scm.com/
+
+---
+
