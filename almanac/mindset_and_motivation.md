@@ -2576,3 +2576,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2025-01-26 (Sunday)
+
+### Mindset
+**Mindset: Write docs for your future self; you'll thank you** — Write docs for your future self; you'll thank you.
+
+---
+
