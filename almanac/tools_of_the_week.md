@@ -3330,3 +3330,12 @@ https://code.visualstudio.com/
 
 ---
 
+## 2025-02-04 (Tuesday)
+
+### Tool of the Week
+**Spring Boot 2.0** — Major Spring Boot release for prod services.
+
+https://spring.io/projects/spring-boot
+
+---
+
