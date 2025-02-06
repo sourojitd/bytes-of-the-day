@@ -2590,3 +2590,10 @@
 
 ---
 
+## 2025-02-06 (Thursday)
+
+### Architecture Byte
+**Rate Limiter ** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
