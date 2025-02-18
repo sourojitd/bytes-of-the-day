@@ -3348,3 +3348,12 @@ https://react.dev/
 
 ---
 
+## 2025-02-18 (Tuesday)
+
+### Tool of the Week
+**PyTorch 1.0** — First stable release for research & prod.
+
+https://pytorch.org/
+
+---
+
