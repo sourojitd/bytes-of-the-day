@@ -2611,3 +2611,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-02-24 (Monday)
+
+### Dev Tips
+**Guard critical paths with circuit breakers and bul** — Guard critical paths with circuit breakers and bulkheads.
+
+---
+
