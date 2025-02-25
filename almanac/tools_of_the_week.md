@@ -3357,3 +3357,12 @@ https://pytorch.org/
 
 ---
 
+## 2025-02-25 (Tuesday)
+
+### Tool of the Week
+**React Hooks** — State & effects from function components.
+
+https://react.dev/
+
+---
+
