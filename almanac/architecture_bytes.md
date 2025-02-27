@@ -2611,3 +2611,10 @@
 
 ---
 
+## 2025-02-27 (Thursday)
+
+### Architecture Byte
+**Saga ** — Saga — orchestrate/chorus local transactions with compensations.
+
+---
+
