@@ -2611,3 +2611,10 @@
 
 ---
 
+## 2025-03-01 (Saturday)
+
+### Git & CLI
+**jq** — . filters JSON streams; great for pipelines.
+
+---
+
