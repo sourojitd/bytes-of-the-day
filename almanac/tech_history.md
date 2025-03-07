@@ -2618,3 +2618,10 @@
 
 ---
 
+## 2025-03-07 (Friday)
+
+### Tech History
+**SQLite** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
