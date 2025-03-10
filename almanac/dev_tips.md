@@ -2625,3 +2625,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-03-10 (Monday)
+
+### Dev Tips
+**Document decisions (ADRs) to record trade-offs and** — Document decisions (ADRs) to record trade-offs and context.
+
+---
+
