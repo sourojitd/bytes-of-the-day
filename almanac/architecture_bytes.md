@@ -2625,3 +2625,10 @@
 
 ---
 
+## 2025-03-13 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (072)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
