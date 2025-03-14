@@ -2625,3 +2625,10 @@
 
 ---
 
+## 2025-03-14 (Friday)
+
+### Tech History
+**UNIX philosophy (073)** — UNIX philosophy — do one thing well; compose via text streams.
+
+---
+
