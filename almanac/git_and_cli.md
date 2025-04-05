@@ -2646,3 +2646,10 @@
 
 ---
 
+## 2025-04-05 (Saturday)
+
+### Git & CLI
+**rg (ripgrep) (095)** — Blazing-fast code search; respects .gitignore.
+
+---
+
