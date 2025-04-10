@@ -2653,3 +2653,10 @@
 
 ---
 
+## 2025-04-10 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (100)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
