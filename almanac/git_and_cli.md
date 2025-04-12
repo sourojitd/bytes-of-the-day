@@ -2653,3 +2653,10 @@
 
 ---
 
+## 2025-04-12 (Saturday)
+
+### Git & CLI
+**fd (102)** — Modern, fast alternative to find with sane defaults.
+
+---
+
