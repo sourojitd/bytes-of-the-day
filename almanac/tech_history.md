@@ -2667,3 +2667,10 @@
 
 ---
 
+## 2025-04-25 (Friday)
+
+### Tech History
+**Rust 1.0 (2015) (115)** — Rust 1.0 (2015) — memory safety without GC gains traction.
+
+---
+
