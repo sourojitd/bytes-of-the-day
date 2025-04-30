@@ -4160,3 +4160,14 @@ if (n := len(items)) > 100:
 
 ---
 
+## 2025-04-30 (Wednesday)
+
+### Code Snippet
+**Snippet (java): HTTP timeouts [120]**
+
+```java
+HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(3)).build();
+```
+
+---
+
