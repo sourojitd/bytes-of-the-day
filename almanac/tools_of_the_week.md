@@ -3456,3 +3456,12 @@ https://react.dev/
 
 ---
 
+## 2025-05-13 (Tuesday)
+
+### Tool of the Week
+**LangChain** — Framework for LLM-powered apps.
+
+https://www.langchain.com/
+
+---
+
