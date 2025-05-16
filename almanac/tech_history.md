@@ -2688,3 +2688,10 @@
 
 ---
 
+## 2025-05-16 (Friday)
+
+### Tech History
+**SQLite (136)** — SQLite — embedded DB powering countless apps and platforms.
+
+---
+
