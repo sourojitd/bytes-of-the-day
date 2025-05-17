@@ -2688,3 +2688,10 @@
 
 ---
 
+## 2025-05-17 (Saturday)
+
+### Git & CLI
+**eza (137)** — Modern replacement for ls with git info.
+
+---
+
