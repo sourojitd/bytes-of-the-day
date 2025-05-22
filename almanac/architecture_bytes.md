@@ -2695,3 +2695,10 @@
 
 ---
 
+## 2025-05-22 (Thursday)
+
+### Architecture Byte
+**Circuit Breaker  (142)** — Circuit Breaker — fail fast on unhealthy downstreams; probe via half-open.
+
+---
+
