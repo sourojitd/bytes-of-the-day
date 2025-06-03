@@ -3483,3 +3483,12 @@ https://openai.com/
 
 ---
 
+## 2025-06-03 (Tuesday)
+
+### Tool of the Week
+**Claude 2** — Anthropic assistant with large context.
+
+https://www.anthropic.com/
+
+---
+
