@@ -2716,3 +2716,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-06-09 (Monday)
+
+### Dev Tips
+**Paginate large queries and stream responses to avo (160)** — Paginate large queries and stream responses to avoid memory spikes.
+
+---
+
