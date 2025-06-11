@@ -4227,3 +4227,14 @@ Map<String,User> m = users.stream()
 
 ---
 
+## 2025-06-11 (Wednesday)
+
+### Code Snippet
+**Snippet (javascript): Optional chaining [162]**
+
+```javascript
+const city = user?.address?.city;
+```
+
+---
+
