@@ -2723,3 +2723,10 @@
 
 ---
 
+## 2025-06-19 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (170)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
