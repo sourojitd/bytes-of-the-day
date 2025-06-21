@@ -2723,3 +2723,10 @@
 
 ---
 
+## 2025-06-21 (Saturday)
+
+### Git & CLI
+**fd (172)** — Modern, fast alternative to find with sane defaults.
+
+---
+
