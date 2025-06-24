@@ -3510,3 +3510,12 @@ https://deepmind.google/
 
 ---
 
+## 2025-06-24 (Tuesday)
+
+### Tool of the Week
+**OpenAI o1** — Reasoning-focused model family.
+
+https://openai.com/
+
+---
+
