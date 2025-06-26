@@ -2730,3 +2730,10 @@
 
 ---
 
+## 2025-06-26 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (177)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
