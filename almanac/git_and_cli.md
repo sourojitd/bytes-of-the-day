@@ -2744,3 +2744,10 @@
 
 ---
 
+## 2025-07-12 (Saturday)
+
+### Git & CLI
+**fzf (193)** — Fuzzy finder for files, history, and git objects.
+
+---
+
