@@ -3537,3 +3537,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2025-07-15 (Tuesday)
+
+### Tool of the Week
+**ripgrep** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
