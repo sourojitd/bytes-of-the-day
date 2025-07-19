@@ -2751,3 +2751,10 @@
 
 ---
 
+## 2025-07-19 (Saturday)
+
+### Git & CLI
+**jq (200)** — . filters JSON streams; great for pipelines.
+
+---
+
