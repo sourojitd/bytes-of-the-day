@@ -3546,3 +3546,12 @@ https://github.com/BurntSushi/ripgrep
 
 ---
 
+## 2025-07-22 (Tuesday)
+
+### Tool of the Week
+**fzf** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
