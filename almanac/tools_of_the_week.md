@@ -3564,3 +3564,12 @@ https://htop.dev/
 
 ---
 
+## 2025-08-05 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2025)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
