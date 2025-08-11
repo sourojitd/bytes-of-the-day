@@ -2779,3 +2779,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-08-11 (Monday)
+
+### Dev Tips
+**Encrypt in transit & at rest; rotate credentials r (223)** — Encrypt in transit & at rest; rotate credentials regularly.
+
+---
+
