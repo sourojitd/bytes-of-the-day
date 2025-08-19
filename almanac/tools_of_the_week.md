@@ -3582,3 +3582,12 @@ https://curl.se/
 
 ---
 
+## 2025-08-19 (Tuesday)
+
+### Tool of the Week
+**ripgrep (recap 2025)** — Fast recursive search by Rust (`rg`).
+
+https://github.com/BurntSushi/ripgrep
+
+---
+
