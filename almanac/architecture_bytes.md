@@ -2793,3 +2793,10 @@
 
 ---
 
+## 2025-08-28 (Thursday)
+
+### Architecture Byte
+**Idempotent Consumers  (240)** — Idempotent Consumers — safely handle duplicate messages.
+
+---
+
