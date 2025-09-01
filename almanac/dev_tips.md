@@ -2800,3 +2800,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-09-01 (Monday)
+
+### Dev Tips
+**Separate read/write stores (if needed) to scale in (244)** — Separate read/write stores (if needed) to scale independently.
+
+---
+
