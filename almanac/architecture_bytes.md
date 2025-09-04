@@ -2800,3 +2800,10 @@
 
 ---
 
+## 2025-09-04 (Thursday)
+
+### Architecture Byte
+**Rate Limiter  (247)** — Rate Limiter — protect services from spikes and abuse.
+
+---
+
