@@ -2807,3 +2807,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-09-08 (Monday)
+
+### Dev Tips
+**Prefer UTC everywhere; convert at the edges (251)** — Prefer UTC everywhere; convert at the edges.
+
+---
+
