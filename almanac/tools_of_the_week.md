@@ -3609,3 +3609,12 @@ https://jqlang.github.io/jq/
 
 ---
 
+## 2025-09-09 (Tuesday)
+
+### Tool of the Week
+**fzf (recap 2025)** — Command-line fuzzy finder.
+
+https://github.com/junegunn/fzf
+
+---
+
