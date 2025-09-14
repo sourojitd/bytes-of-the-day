@@ -2807,3 +2807,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2025-09-14 (Sunday)
+
+### Mindset
+**Mindset: Make performance observable; latency is a feature (257)** — Make performance observable; latency is a feature.
+
+---
+
