@@ -2821,3 +2821,10 @@
 
 ---
 
+## 2025-09-27 (Saturday)
+
+### Git & CLI
+**jq (270)** — . filters JSON streams; great for pipelines.
+
+---
+
