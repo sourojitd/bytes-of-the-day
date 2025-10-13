@@ -2842,3 +2842,10 @@ Prefer connection pooling, timeouts, and retries in any networked service.
 
 ---
 
+## 2025-10-13 (Monday)
+
+### Dev Tips
+**Prefer idempotent APIs for safe retries; set timeo (286)** — Prefer idempotent APIs for safe retries; set timeouts and use connection pools.
+
+---
+
