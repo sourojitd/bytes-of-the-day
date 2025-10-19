@@ -2842,3 +2842,10 @@ Small consistent improvements beat weekend sprints.
 
 ---
 
+## 2025-10-19 (Sunday)
+
+### Mindset
+**Mindset: Learning sticks when you build; ship tiny projects (292)** — Learning sticks when you build; ship tiny projects.
+
+---
+
